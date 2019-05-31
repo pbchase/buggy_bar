@@ -14,7 +14,7 @@ description: "This is how you build a Buggy Bar."
 
 This document describes how to build a Buggy Bar. The Buggy Bar is a kite control bar designed by and for Kite Buggiers. This bar is targeted specifically at non-jumping land-kiting with a focus on high function and ease of use to keep the flier safe and focused on piloting. This design is released under a Creative Commons license to allow anyone to use the design to build the bar for personal use or resale.
 
-# Bill of materials
+## Bill of materials
 
 * 1 CL826-11AN AERO CLEAT FOR 4-6MM ROPES - HARD ANODISED
 * 2430mm Samson AmSteel-Blue Single Braid Line Diameter: 5/32" (4mm)
@@ -31,7 +31,7 @@ This document describes how to build a Buggy Bar. The Buggy Bar is a kite contro
 * ~120mm of 2mm bungee
 * End of the handle from a plastic bucket
 
-# Tools required
+## Tools required
 
 * Razor blade or other very sharp knife
 * Cutting board
@@ -58,11 +58,9 @@ This document describes how to build a Buggy Bar. The Buggy Bar is a kite contro
 
 To build the trimline, you will need ~2500mm of Amsteel Blue (use only the gray color), ~80mm x 105m of insignia cloth (dark colors are better), two 18mm x 3mm nickel-plated neodymium disc magnets, one Small Stopper Ball Blue 5/32" ID	(R1905 at APS Limited), and one Medium Stopper Ball Green 1/4" ID (R1994 at APS Limited). 
 
-Cut a segment of gray 4mm Amsteel Blue to a length of 2430mm with a fresh razor blade to get a clean cut.
+Cut a segment of gray 4mm Amsteel Blue to a length of 2430mm with a fresh razor blade to get a clean cut. Cut a strip of sailmaker's insignia cloth according to the dimensions shown in Figure \@ref(fig:magnet-wrap) below to wrap the magnets.
 
-Cut a strip of sailmaker's insignia cloth according to the dimensions shown in \@ref(fig.magnet-wrap) below to wrap the magnets.
-
-```{r magnet-wrap, fig.cap="Insignia cloth patch to hold trimline magnets", echo = FALSE}
+```{r magnet-wrap, fig.cap="Insignia cloth patch to hold trimline magnets", echo = FALSE, out.width='70%', fig.align='center'}
 knitr::include_graphics("images/magnetic_trimline_tails_9.jpg")
 ```
 
@@ -72,9 +70,11 @@ Cut a strip of insignia cloth 20mm x 90mm to use as wrap and threading end on on
 
 Using the 4mm Amsteel as the foundation of the trimline, pick out 4 strands from one end of line pulling one strand at each of 5, 10, 15, and 20mm to form a tapered end. Cut each strand off with a razor blade. Wrap the last 30mm of that end of the trim line with the 20 x 90mm insignia cloth wrapping the 20mm dimension tightly around the Amsteel. 60mm of the cloth will extend past the end of the line. Fold this portion of the cloth on itself as you wrap to form a long, narrow, flat strip. 
 
-![end of trimline](images/thread_end_of_trimline.jpg)
+```{r thread-end, fig.cap="Threading end of the trim line formed with a wrap of insignia cloth", echo = FALSE, out.width='70%', fig.align='center'}
+knitr::include_graphics("images/thread_end_of_trimline.jpg")
+```
 
-To form the other end of the trimline, place 55mm of the unfinished end of the Amsteel on the tapered end of the magnet wrap. In your hand, place two 18mm x 3mm disc magnets edge-to-edge and align the polarity. Carefully place the pair of magnets edge-to-edge at the tip of the Amsteel aligning the long axis of the magnets with the axis of the Amsteel. The result should look like the figure above. 
+To form the other end of the trimline, place 55mm of the unfinished end of the Amsteel on the tapered end of the magnet wrap. In your hand, place two 18mm x 3mm disc magnets edge-to-edge and align the polarity. Carefully place the pair of magnets edge-to-edge at the tip of the Amsteel aligning the long axis of the magnets with the axis of the Amsteel. The result should look like Figure \@ref(fig:thread-end).
 
 Place the curve of the plastic cord closely around magnets. The tapered ends of the plastic cord should fit closely around the trim line. 
 
@@ -84,17 +84,23 @@ Stitch the magnet-wrap to the Amsteel so the cloth won't creep in use. Use a tri
 
 Tie an overhand knot at the point where the magnet wrap meets the Amsteel. The knot should be just barely above the plastic cord buried inside the magnet wrap.
 
-Thread a 25mm ball onto the trimline, resessed side first. Slide it all the way to the knot next to the magnet wrap. Mark the trimline 65mm above the top of the green ball. Tie and overhand knot in the trimline just above that knot. Now thread a 12mm ball onto the trim line and slide it all the way to the knot. 
+Thread a 25mm ball onto the trimline, recessed side first. Slide it all the way to the knot next to the magnet wrap. Mark the trimline 65mm above the top of the green ball. Tie and overhand knot in the trimline just above that knot. Now thread a 12mm ball onto the trim line and slide it all the way to the knot. The finished product can be seen in Figure \@ref(fig:finished-end)
 
-![finished end of trimline](images/finished_end_of_trimline.jpg)
+```{r finished-end, fig.cap="Grip end of the trim line with balls offset to show knots (above) and thread end (below)", echo = FALSE, out.width='70%', fig.align='center'}
+knitr::include_graphics("images/finished_end_of_trimline.jpg")
+```
+
 
 ## Cleat Jacket
 
-The Aero Cleat requires a jacket of magnetic stainless steel sheet to create a tether point for the trimline tail. Make a template from the image below, trace the pattern onto a sheet of 0.025" thick 430 stainless steel sheet. You can also make your own template by placing the metal portion of the cleat into a piece of cardboard and tracing its outline on 3 sides or jus trace it directly onto the metal. Cut the shap from the metal sheet, drill out the two holes with a 5/32" bit and ease all the edges with a metal file. Most of these edges will be on grippable surfaces, so do a good job of easing them.
+The Aero Cleat requires a jacket of magnetic stainless steel sheet to create a tether point for the trimline tail. Make a template from the image in Figure \@ref(fig:cleat-jacket-template), trace the pattern onto a sheet of 0.025" thick 430 stainless steel sheet. You can also make your own template by placing the metal portion of the cleat into a piece of cardboard and tracing its outline on 3 sides or just trace it directly onto the metal. Cut the shape from the metal sheet, drill out the two holes with a 5/32" bit and ease all the edges with a metal file. Most of these edges will be on grippable surfaces, so do a good job of easing them.
 
-Disassemble the cleat and reassemble it with metal sheet between the two sections of the cleat. Bend the metal around the metal portion of the Aero cleat. To do this, clamp one side of the jacket in a vise. USe a block of wood and mallet to fold the other side against metal side of the cleat. Flip the cleat over to expose the other side of the jacket and clamp the cleat in the vise. Again use the block of wood and a mallet to fold the remaining wing. Remove the cleat from the vise, lay it flat on a table top and use the block and mallet to crease the folds. 
+Disassemble the cleat and reassemble it with metal sheet between the two sections of the cleat. Bend the metal sheet around the metal portion of the Aero Cleat. To do this, clamp one side of the jacket in a vise. Use a block of wood and a mallet to fold the other side against metal side of the cleat. Flip the cleat over to expose the unfolded wing of the jacket and clamp the cleat in the vise. Again, use the block of wood and a mallet to fold the remaining wing. Remove the cleat from the vise, lay it flat on a table top and use the block and mallet to crease the folds. 
 
-![cleat jacket template](images/magnetic_trimline_tails_12.jpg)
+```{r cleat-jacket-template, fig.cap="Template for making an Aero Cleat Jacket", echo = FALSE, out.width='100%', fig.align='center'}
+knitr::include_graphics("images/cleat_jacket_template.pdf")
+```
+
 
 ## Separation block and low friction ring
 
@@ -102,21 +108,30 @@ The juncture of the flying lines and the trim line is managed by an assembly of 
 
 To build the assembly, you will need 295mm of 7/64" Amsteel Blue (preferably gray), two 20mm x 65mm rectangles of insignia cloth, one FR5 Tylaska Rigging Ring Ferrule or similar, and one Separation Block release 1.4.2. 
 
-Pick out 4 strands from one end of Amsteel pulling out one strand at each of 5, 10, 15, and 20mm to form a tapered end. Cut each strand off with a razor blade. Wrap that end of theAmsteel with a rectangle of insignia cloth. Wrap the 20mm dimension around the line with 30mm on the line and 35mm off. 
+Pick out 4 strands from one end of Amsteel pulling out one strand at each of 5, 10, 15, and 20mm to form a tapered end. Cut each strand off with a razor blade. Wrap that end of theAmsteel with a rectangle of insignia cloth. Wrap the 20mm dimension around the line with 30mm on the line and 35mm off. The result should look Figure \@ref(fig:unfinished-separation-block-cord)
 
-![unfinished separation block cord](images/unfinished_separation_block_cord.jpg)
-
-Measure 95mm from the tip of the tapered line. Pierce the line at 95mm and start a brummel splice at the mark. Place the low-friction ring inside the loop. Pull the loop tight around the ring. Run a wire fid from a point 20mm from the opposite end of the line. Pop the fid out of the line at the ring. USe the wire fid to pull the tapered end inside. When you pull the end of the tapered end out, peel off the extra insignia cloth before you bury it. Use the second piece of insignia cloth to put a threading end on the finished piece. 
-
-![finished separation block cord](images/finished_separation_block_cord.jpg)
+```{r unfinished-separation-block-cord, fig.cap="Unfinished separation block cord", echo = FALSE, out.width='70%', fig.align='center'}
+knitr::include_graphics("images/unfinished_separation_block_cord.jpg")
+```
 
 
-![finished separation block cord picture](images/finished_separation_block_cord_pic.jpg)
+Measure 95mm from the tip of the tapered line. Pierce the line at 95mm and start a brummel splice at the mark. Place the low-friction ring inside the loop. Pull the loop tight around the ring. Run a wire fid from a point 20mm from the opposite end of the line. Pop the fid out of the line at the ring. Use the wire fid to pull the tapered end inside. When you pull the end of the tapered end out, peel off the extra insignia cloth before you bury it. Use the second piece of insignia cloth to put a threading end on the finished piece. The result should have the dimension in Figure \@ref(fig:finished-separation-block-cord).  It should look like the picture in Figure \@ref(fig:finished-separation-block-cord-pic)
 
-Thread the resulting line-ring assembly through the center bore of the separation block. Tie an overhand knot in the Amsteel taking out as much slack as possible.
+```{r finished-separation-block-cord, fig.cap="finished separation block cord", echo = FALSE, out.width='70%', fig.align='center'}
+knitr::include_graphics("images/finished_separation_block_cord.jpg")
+```
 
-![finished separation block assembly](images/finished_separation_block_assembly.jpg)
 
+
+```{r finished-separation-block-cord-pic, fig.cap="Picture of a finished separation block cord", echo = FALSE, out.width='70%', fig.align='center'}
+knitr::include_graphics("images/finished_separation_block_cord_pic.jpg")
+```
+
+Thread the resulting line-ring assembly through the center bore of the separation block. Tie an overhand knot in the Amsteel taking out as much slack as possible. The completed assembly is show in  Figure \@ref(fig:finished-separation-block-assembly)
+
+```{r finished-separation-block-assembly, fig.cap="Picture of separation block assembly", echo = FALSE, out.width='70%', fig.align='center'}
+knitr::include_graphics("images/finished_separation_block_assembly.jpg")
+```
 
 ## Flag line
 
@@ -134,32 +149,37 @@ To the lower end of the flag--the end that has not been fattened--affix a quick-
 
 Cut the end off the bucket handle and round it to form two parallel disks connected at their centers.  You are creating the yellow object in the picture below. Cross drill through the vinyl tubing about 5mm from the end with a 1/16" bit. Cut the cotter pin down to 40mm and round the end on coarse stone. splice the 200mm of Ultrex to form a line with a loop on each end. One these line will need to accept the bucket handle end, so size it appropriately.
 
-Larkshead the cotter pin and Ultrex line to the end of the flag line. Thread the 2mm bungie through the holes in the vinyl and the larkshead. Tie off each end of the bungie with an overhand knot to retain it. Leave a 5mm tail on each end.  Tie off the second side of the bungie, cut it and apply cyanoacrylate glue to prevent fraying. Pull the Ultrex line down through the vinyl and slide the bucket handle end into the the loop.
+Larkshead the cotter pin and Ultrex line to the end of the flag line. Thread the 2mm bungie through the holes in the vinyl and the larkshead. Tie off each end of the bungie with an overhand knot to retain it. Leave a 5mm tail on each end.  Tie off the second side of the bungie, cut it and apply cyanoacrylate glue to prevent fraying. Pull the Ultrex line down through the vinyl and slide the bucket handle end into the the loop. A finished assembly--albeit with PVC in place of the vinyl--is shown in \@ref(fig:flagline-disconnect)
 
-![Flag line disconnect](images/flagline_disconnect.jpg)
+```{r flagline-disconnect, fig.cap="Flagline disconnect", echo = FALSE, out.width='70%', fig.align='center'}
+knitr::include_graphics("images/flagline_disconnect.jpg")
+```
+
 
 ## Stub line
 
 The non-flagging flying line needs to be terminated at the underside of the separation block in the same manner as the flying line that _does_ flag. This is accomplished with a short loop called the _stub line_. To match the upper end of the flag line, the stub line is made from 300mm of 1/16" Ultrex 12.
 
-Mark the 300mm line segment 130mm from one end. Use a wire fid to splice the 130mm segment inside the 170mm segment that remains. The resulting segment will be about 155mm long.  The segment is mostly double thickness with about 300mm of single thickeness line on the end. Apply cyanoacrylate glue to the unfinished end. Fold the 155mm segment in half and tie an overhand knot to form a small loop.
+Mark the 300mm line segment 130mm from one end. Use a wire fid to splice the 130mm segment inside the 170mm segment that remains. The resulting segment will be about 155mm long.  The segment is mostly double thickness with about 30mm of single thickness line on the end. Apply cyanoacrylate glue to the unfinished end. Fold the 155mm segment in half and tie an overhand knot to form a small loop. The finished product is about 50mm long.
 
-![Stub Line](images/07_stub_line_for_termination_of_non-flagging_topline_2019-03-23_1.jpg)
 
 ## Bar End Loops
 
-The kite bar requires a loop on each end to affix the steering lines. These loops require two 350mm segments of 1/16" Ultrex 12. To make them fold each loop in half and tie an over hand knot at the end with about 10mm of tail. The length of these two lines _must_ match. To acheive this, hook the loop ends around a rounded component on a bench vise. Gently pinch the line with an adjustable wrench on the loop side of the knots. Use the wrench to pull the knots evenly while you pull the ends with standard pliers. With the knot complete and the lines equal in length, put little cyanoacrylate glue on the line ends to prevent fraying.
+The kite bar requires a loop on each end to affix the steering lines. These loops require two 350mm segments of 1/16" Ultrex 12. To make them fold each loop in half and tie an over hand knot at the end with about 10mm of tail. The length of these two lines _must_ match. To acheive this, hook the loop ends around a rounded component on a bench vise. Gently pinch the line with an adjustable wrench on the loop side of the knots. Use the wrench to pull the knots evenly while you pull the ends with standard pliers. With the knot complete and the lines equal in length, put little cyanoacrylate glue on the line ends to prevent fraying. See the detail diagram in Figure \@ref(fig:bar-end-loop).
 
-![Bar End Loops](images/05_kite_bar_rigging_2015-10-06_3.jpg)
+```{r bar-end-loop, fig.cap="Bar End Loop", echo = FALSE, out.width='70%', fig.align='center'}
+knitr::include_graphics("images/05_kite_bar_rigging_2015-10-06_3.jpg")
+```
 
 ## Steering Lines
 
 The steering lines run from the bar end loops to the ends of the back lines. They require two 1140mm segments of 1/16" Ultrex 12. Mark each segment at 110, 190, 270, and 410mm. Use these marks to create a brummel splice with an 80mm loop.
 
-With the loops complete, stretch the pair of lines evenly and mark both lines at about 25mm from the non-loop end. Tie and overhand knot in each line at the mark. Gently pinch the line with an adjustable wrench on the loop side of the knots. Use the wrench to pull the knots evenly while you pull the ends with standard pliers. With the knot complete and the lines equal in length, put little cyanoacrylate glue on the line ends to prevent fraying.
+With the loops complete, stretch the pair of lines evenly and mark both lines at about 25mm from the non-loop end. Tie and overhand knot in each line at the mark. Gently pinch the line with an adjustable wrench on the loop side of the knots. Use the wrench to pull the knots evenly while you pull the ends with standard pliers. With the knot complete and the lines equal in length, put little cyanoacrylate glue on the line ends to prevent fraying. See the construction details in Figure \@ref(fig:steering-lines).
 
-![Steering Lines 1/2](images/03_components_for_IBX_bar_2019-03-16_2.jpg)
-![Steering Lines 2/2](images/04_kite_bar_rigging_2015-10-06_2.png)
+```{r steering-lines, fig.cap="Steering line construction details", echo = FALSE, out.width='70%', fig.align='center'}
+knitr::include_graphics("images/04_kite_bar_rigging_2015-10-06_2.png")
+```
 
 # Assembly
 
@@ -167,43 +187,49 @@ With the loops complete, stretch the pair of lines evenly and mark both lines at
 
 To thread the trim line, put the threaded end through the cleat, entering at the jam side. Exit the cleat at the top, routing up through the low friction ring of the separation block. Reenter the cleat and go through its serpentine path. Leave just enough line above the cleat to provide the desired trim. Route the line through the cleat bead. Go down through the center of the bar, through a ~25mm ball to retain the trim line in the bar.  Then go back through the center bore of the bar and through the cleat bead. Slide the cleat beaddown towards the bar to leave lots of slack next to the cleat. Before going any further, make sure the line already passing through the cleat's serpentine has 5 cm of loop on each side of the cleat. You'll need this slack in the next step.
 
-
 Then route the loose end of the trim line _up_ through the cleat's serpentine path. You want to make large parallel loops of line going back and forth through the serpentine. Route about 5cm of the trim out of the top of the cleat.
 
-![](images/threading_the_cleat_1.jpg "Aerocleat threaded with both passes of trim line")
+```{r thread-cleat-1, fig.cap="Form large parallel loops of line on each side of the cleat's serpentine path. Route about 5cm of the trim out of the top of the cleat.", echo = FALSE, out.width='70%', fig.align='center'}
+knitr::include_graphics("images/threading_the_cleat_1.jpg")
+```
 
-Route the 5cm of trim line tail through the loops along the side of the serpentine.
 
-![](images/threading_the_cleat_2.jpg "Thread the trimline tail through the loops")
 
-Make sure the insignia cloth tail is also routed through these loops. Holding these pieces in place, pull the trim line slack down through the cleat grooming the lines as you go. Keep the lines as parallel as possible.
+```{r thread-cleat-2, fig.cap="Route the 5cm of trim line tail through the loops along the side of the serpentine.", echo = FALSE, out.width='70%', fig.align='center'}
+knitr::include_graphics("images/threading_the_cleat_2.jpg")
+```
 
-Take the slack out of the trimline loops 1 of 3.
+```{r thread-cleat-3, fig.cap="Route the insignia cloth tail through the loops. Holding the tail in place, pull the trim line slack down through the cleat grooming the lines as you go. Keep the lines as parallel as possible. Take the slack out of the trimline loops 1 of 3.", echo = FALSE, out.width='70%', fig.align='center'}
+knitr::include_graphics("images/threading_the_cleat_3.jpg")
+```
 
-![](images/threading_the_cleat_3.jpg "Take the slack out of the trimline loops 1 of 3")
+```{r thread-cleat-4, fig.cap="Take the slack out of the trimline loops 2 of 3.", echo = FALSE, out.width='70%', fig.align='center'}
+knitr::include_graphics("images/threading_the_cleat_4.jpg")
+```
 
-Take the slack out of the trimline loops 2 of 3.
-
-![](images/threading_the_cleat_4.jpg "Take the slack out of the trimline loops 2 of 3")
-
-Take the slack out of the trimline loops 3 of 3.
-
-![](images/threading_the_cleat_5.jpg "Take the slack out of the trimline loops 3 of 3")
+```{r thread-cleat-5, fig.cap="Take the slack out of the trimline loops 3 of 3.", echo = FALSE, out.width='70%', fig.align='center'}
+knitr::include_graphics("images/threading_the_cleat_5.jpg")
+```
 
 
 With the trimline tight in the serpentine path, have a friend help you put the trim line in tension.  Then slide the cleat bead up to the cleat. Look at the cleat from the pilot's point of view and rotatecleat until the jaws are up. Check the rotation of the cleat bead so that the flag line guide path is on the lower left side of the cleat. Pull the trim lines and jam the bead onto the bottom of the cleat. 
 
-You'll want to verify you can reach the trimline end under normal flying conditions. It's easier to assess the cleat position  before the flying lines are attached so paude the assembly for a moment to check and adjust the cleat position.  To do this, put your harness on, clip the trim line into the harness and have a friend pull on the trim line by the separation block. They should pull the bar to your side about 30 degrees above horizontal. Verify you can reach the jaws of the cleat and grab the trim line tail without over-reaching. If you have to stretch to reach the tail, the cleat is too far away. You can move it closer by moving some of the trim line up through the cleat. For each centimeter you need to move the cleat down, you'll need to move two centimeters of line through the cleat. Making this adjustment is a bit tedious, but the trim line tail must be in easy reach under load.
+You'll want to verify you can reach the trimline end under normal flying conditions. It's easier to assess the cleat position  before the flying lines are attached so pause the assembly for a moment to check and adjust the cleat position.  To do this, put your harness on, clip the trim line into the harness and have a friend pull on the trim line by the separation block. They should pull the bar to your side about 30 degrees above horizontal. Verify you can reach the jaws of the cleat and grab the trim line tail without over-reaching. If you have to stretch to reach the tail, the cleat is too far away. You can move it closer by moving some of the trim line up through the cleat. For each centimeter you need to move the cleat down, you'll need to move two centimeters of line through the cleat. Making this adjustment is a bit tedious, but the trim line tail must be in easy reach under load.
 
 ## Attaching the flying lines
 
 With the trim line routed, the flying lines can be attached. Route one the flying lines down through the separation block and attach the stub line stopper to the end-loop of the flying line with a larks head to retain the flying line in the stopper. 
 
-![](images/flag-line-at-separation-block.jpg "The flag line meets the flying line")
 
-Route the other flying line through the remaining hole in the separation block. Continue routing it through the cleat bead and then the bar. Attach the flag line to the flying line with a larks head. Pull flag line up through the bar and bead with the flying line.
+Route the other flying line through the remaining hole in the separation block. Continue routing it through the cleat bead and then the bar. Attach the flag line to the flying line with a larks head. Pull flag line up through the bar and bead with the flying line. The routed lines should look like Figure \@ref(fig:flag-line-at-separation-block) at the separation block. The over-all assembly should look like \@ref(fig:upper-section-of-assembled-bar)
 
-![](images/upper_section_of_assembled_bar.jpg "Upper section of assembled bar")
+```{r flag-line-at-separation-block, fig.cap="The flag line meets the flying line.", echo = FALSE, out.width='70%', fig.align='center'}
+knitr::include_graphics("images/flag-line-at-separation-block.jpg")
+```
+
+```{r upper-section-of-assembled-bar, fig.cap="Assembled bar", echo = FALSE, out.width='70%', fig.align='center'}
+knitr::include_graphics("images/upper_section_of_assembled_bar.jpg")
+```
 
 
 ## Bar End Loops
@@ -216,9 +242,6 @@ Pull each bar end loop through one of the holes at the ends of the bar. Route th
 Use a larkshead to attach the loop of each steering line leader to the loop of its steering line. Then attach the knot of the leader to the loop of the bar-end loop with a larks head. Keeping the knot of the leaderline next to the bar minimizes the risk of snagging the steering lines in the components of the bar.
 
 With all the lines attached, the trim control let all the way out and the bar pulled all the way back, the tips of all four flying lines should converge to the same point.
-
-
-# Adjustment
 
 
 ```{r include=FALSE}
