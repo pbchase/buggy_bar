@@ -2,7 +2,7 @@
 
 This document describes how to build a BuggyBar, a kite control bar designed by and for kite buggiers.
 
-To see the rendered document in a variety of formats, see http://philipbchase/buggy-bar-build-book/
+To see the rendered document in a variety of formats, see http://philipbchase.com/buggy-bar-build-book/
 
 ## Contributions
 
