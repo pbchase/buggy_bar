@@ -3,6 +3,11 @@ All notable changes to the BuggyBar Build Book will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
 
+## [1.0.1] - 2019-06-01
+### Changed
+- Fix typo in README (Philip Chase)
+
+
 ## [1.0.0] - 2019-06-01
 ### Added
 - Initial release (Philip Chase)
