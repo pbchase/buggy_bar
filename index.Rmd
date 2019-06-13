@@ -14,8 +14,13 @@ description: "This is how you build a Buggy Bar."
 
 This document describes how to build a Buggy Bar. The Buggy Bar is a kite control bar designed by and for Kite Buggiers. This bar is targeted specifically at non-jumping land-kiting with a focus on high function and ease of use to keep the flier safe and focused on piloting. This design is released under a Creative Commons license to allow anyone to use the design to build the bar for personal use or resale.
 
+```{r complete-bar, fig.cap="The finished product, bundled and ready for installation on a kite", echo = FALSE, out.width='70%', fig.align='center'}
+knitr::include_graphics("images/finished_bar.jpg")
+```
+
 ## Bill of materials
 
+* 1 kite control bar: 17" - 20" between the steering lines; a rimless, circular trimline borehole on the kite-side of the bar; a deeply beveled cut left and right of the trimline borehole on the pilot-side of the bar.
 * 1 CL826-11AN AERO CLEAT FOR 4-6MM ROPES - HARD ANODISED
 * 2430mm Samson AmSteel-Blue Single Braid Line Diameter: 5/32" (4mm)
 * 4910mm Ultrex 12 1/16"
@@ -53,6 +58,25 @@ This document describes how to build a Buggy Bar. The Buggy Bar is a kite contro
 
 
 # Component construction
+
+## Control bar
+
+```{r bare-bar, fig.cap="", echo = FALSE, out.width='70%', fig.align='center'}
+knitr::include_graphics("images/bare-bars.jpg")
+```
+
+No specific control bar is required, but there are a few features the bar needs to function properly. The bar should not be any larger than needed. A bar with a 17" center-to-center spacing between the steering lines works for most suitable buggy kites. A 20" spacing is probably the largest you would ever need. The trimline bore needs to be circular and smooth on the kite face of the bar as shown in Figure \@ref(fig:kite-side-borehole). A bore hole diameter of 1/2" (12.5mm) is about ideal. The circular hole allows the bar to spin freely against spherical surface of the cleat bead. The smooth surface around the trimline borehole is more comfortable for gripping the bar at the center to fly with one handed.
+
+```{r kite-side-borehole, fig.cap="Kite-side of the bar.", echo = FALSE, out.width='70%', fig.align='center'}
+knitr::include_graphics("images/kite-side-borehole.jpg")
+```
+
+The pilot-side of the bore hole needs to be deeply beveled left and right of the trimline borehole as shown in Figure \@ref(fig:pilot-side-borehole).  This allows the bar to be sheeted in and out during hard turns. Without the cutouts, the bar could bind in a turn and sheeting changes would be difficult to impossible.
+
+```{r pilot-side-borehole, fig.cap="Pilot-side of the bar.", echo = FALSE, out.width='70%', fig.align='center'}
+knitr::include_graphics("images/pilot-side-borehole.jpg")
+```
+
 
 ## Trim Line
 
