@@ -22,25 +22,25 @@ knitr::include_graphics("images/finished_bar.jpg")
 
 * 1 kite control bar: 17" - 20" between the steering lines; a rimless, circular trimline borehole on the kite-side of the bar; a deeply beveled cut left and right of the trimline borehole on the pilot-side of the bar.
 * 1 CL826-11AN AERO CLEAT FOR 4-6MM ROPES - HARD ANODISED
-* 2430mm Samson AmSteel-Blue Single Braid Line Diameter: 5/32" (4mm)
+* 2510mm Samson AmSteel-Blue Single Braid Line Diameter: 5/32" (4mm)
 * 4910mm Ultrex 12 1/16"
-* 400mm Samson Ropes Amsteel Blue AS78 Line: 1/8" (3mm)
-* 1 FR5 Tylaska Rigging Ring Ferrule
-* 1 Small Stopper Ball Blue 5/32" ID R1905
-* 2 Medium Stopper Ball Green 1/4" ID	R1994
-* 1 [Separation Block release 1.4.2](https://github.com/pbchase/kite_bar_parts/blob/1.4.2/printable/separation_block_v1_9a972b6.stl)
+* 310mm Samson Ropes Amsteel Blue AS78 Line: 7/64" (2.5mm)
+* 1 Small Stopper Ball Green ~5/32" ID, 16-18mm OD
+* 1 Medium Stopper Ball Green ~1/4" ID, 25-32mm OD
+* 1 [Separation Block v2 6mm trimline bore release 1.4.2](https://github.com/pbchase/kite_bar_parts/blob/master/printable/separation_block_v2_6mm_trimline_bore_7e61bdd.stl)
 * 1 [Cleat Bead release 1.4.2](https://github.com/pbchase/kite_bar_parts/blob/1.4.2/printable/cleat_bead_ff7e41a.stl)
+* 1 [Chickenloop Handle](https://github.com/pbchase/kite_bar_parts/blob/master/printable/chickenloop_release_d1928a2.stl)
 * 55mm x 55mm square of 0.025" thick 430 stainless steel sheet.
-* One 2" long, 1/8" cotter pin
+* Two 2" long, 1/8" cotter pin
 * 40mm of 1/2" OD vinyl tubing
-* ~120mm of 2mm bungee
-* End of the handle from a plastic bucket
+* ~260mm of 2mm bungee
+* 3/8" diameter bead or 1/2" of 1/2" vinyl tubing
+* ~39mm of 0.102" Diameter 304 Stainless Steel hardened wire
 
 ## Tools required
 
 * Razor blade or other very sharp knife
 * Cutting board
-* Lighter or propane torch
 * Scissors
 * Short wire fid (~150mm)
 * Long wire fid (~850mm)
@@ -52,9 +52,10 @@ knitr::include_graphics("images/finished_bar.jpg")
 * Rubber mallet
 * Bench vise with wooden jaws or other means of bending 0.025 metal sheet
 * Two strong spring clips
-* 2mm long stick and some scrap line to place the flag line under tension
+* 2m long stick and some scrap line to place the flag line under tension
 * Adjustable wrench for line stretching
 * 5/32" drill bit
+* 1/16" drill bit
 
 
 # Component construction
@@ -71,26 +72,22 @@ No specific control bar is required, but there are a few features the bar needs 
 knitr::include_graphics("images/kite-side-borehole.jpg")
 ```
 
-The pilot-side of the bore hole needs to be deeply beveled left and right of the trimline borehole as shown in Figure \@ref(fig:pilot-side-borehole).  This allows the bar to be sheeted in and out during hard turns. Without the cutouts, the bar could bind in a turn and sheeting changes would be difficult to impossible.
+The pilot-side of the bore hole needs to be deeply beveled left and right of the trimline borehole as shown in Figure \@ref(fig:pilot-side-borehole).  This allows the bar to be sheeted in and out during hard turns. Without the cutouts, the bar could bind in a turn and sheeting changes would be difficult if not impossible.
 
-```{r pilot-side-borehole, fig.cap="Pilot-side of the bar.", echo = FALSE, out.width='70%', fig.align='center'}
+```{r pilot-side-borehole, fig.cap="Pilot-side of the bar.", echo = FALSE, out.width='50%', fig.align='center'}
 knitr::include_graphics("images/pilot-side-borehole.jpg")
 ```
 
 
 ## Trim Line
 
-To build the trimline, you will need ~2500mm of Amsteel Blue (use only the gray color), ~80mm x 105m of insignia cloth (dark colors are better), two 18mm x 3mm nickel-plated neodymium disc magnets, one Small Stopper Ball Blue 5/32" ID	(R1905 at APS Limited), and one Medium Stopper Ball Green 1/4" ID (R1994 at APS Limited). 
+To build the trimline, you will need 2510mm of Amsteel Blue (use only the gray color), 80mm x 105m of insignia cloth (dark colors are better), two 18mm x 3mm nickel-plated neodymium disc magnets, one small stopper ball and one medium stopper ball. 
 
-Cut a segment of gray 4mm Amsteel Blue to a length of 2430mm with a fresh razor blade to get a clean cut. Cut a strip of sailmaker's insignia cloth according to the dimensions shown in Figure \@ref(fig:magnet-wrap) below to wrap the magnets.
+Cut a segment of gray 4mm Amsteel Blue to a length of 2510mm with a fresh razor blade to get a clean cut. 
 
-```{r magnet-wrap, fig.cap="Insignia cloth patch to hold trimline magnets", echo = FALSE, out.width='70%', fig.align='center'}
-knitr::include_graphics("images/magnetic_trimline_tails_9.jpg")
-```
+### Threading end of the trim line
 
-Cut a segment of round, 0.95" diameter weed-whacker cord 150mm long to wrap around the magnets and up the trip line. Heat the middle of the plastic cord with a low flame, bend it 180 degrees around the 18mm curve of one of the disc magnets and cool it under tap water. Dry the plastic and magnet so they are ready to be glued. Taper the last 15mm of the tips of the plastic cord so it can fit more closely against the trim line. The taper should be on the interior faces of the plastic cord.
-
-Cut a strip of insignia cloth 20mm x 90mm to use as wrap and threading end on one end of the trim line. 
+One end of the trim line will be wrapped in a strip of insignia cloth that extends off the end to form a strip of fabric used to thread the trim line through the other components. Cut a strip of insignia cloth 20mm x 90mm to use as this wrap on the threading end.
 
 Using the 4mm Amsteel as the foundation of the trimline, pick out 4 strands from one end of line pulling one strand at each of 5, 10, 15, and 20mm to form a tapered end. Cut each strand off with a razor blade. Wrap the last 30mm of that end of the trim line with the 20 x 90mm insignia cloth wrapping the 20mm dimension tightly around the Amsteel. 60mm of the cloth will extend past the end of the line. Fold this portion of the cloth on itself as you wrap to form a long, narrow, flat strip. 
 
@@ -98,21 +95,46 @@ Using the 4mm Amsteel as the foundation of the trimline, pick out 4 strands from
 knitr::include_graphics("images/thread_end_of_trimline.jpg")
 ```
 
-To form the other end of the trimline, place 55mm of the unfinished end of the Amsteel on the tapered end of the magnet wrap. In your hand, place two 18mm x 3mm disc magnets edge-to-edge and align the polarity. Carefully place the pair of magnets edge-to-edge at the tip of the Amsteel aligning the long axis of the magnets with the axis of the Amsteel. The result should look like Figure \@ref(fig:thread-end).
+
+### Loose end of the trim line
+
+The loose end of the trimline is designed to be easily gripped for trim control and easily tethered when not being handled. The tethering is done via a pair of magnets attached to the trimline with a wrap of insignia cloth. The insignia cloth is reinforced with a shaped piece of plastic cord. A pair of stopper balls provide a stop at the cleat and a handle just above the magnets. The a completed end is visible in Figure \@ref(fig:finished-end)
+
+```{r finished-end, fig.cap="Grip end of the trim line with balls offset to show knots (above) and thread end (below)", echo = FALSE, out.width='70%', fig.align='center'}
+knitr::include_graphics("images/finished_end_of_trimline.jpg")
+```
+
+Form the wrap for the magents by cutting a strip of sailmaker's insignia cloth according to the dimensions shown in Figure \@ref(fig:magnet-wrap) below to wrap the magnets.
+
+```{r magnet-wrap, fig.cap="Insignia cloth patch to hold trimline magnets", echo = FALSE, out.width='70%', fig.align='center'}
+knitr::include_graphics("images/magnetic_trimline_tails_9.jpg")
+```
+
+To make the reinforcement for the wrap, cut a segment of round, 0.95" diameter plastic weed-whacker cord 150mm long to wrap around the magnets and up the trim line. Bend the plastic cord until the ends meet, then clamp the ends together with a spring clip. Heat the middle of the plastic cord with a low flame. Dance the cord through the flame flipping and turning as you go to assure event heating. When the bend relaxes, form it around a 16mm x 36mm mandrel of CPVC pipe. The mandrel can be made from 5/8" diameter CPVC piping, a few strip cut from a plastic bucket to form a spacer and two screws to hold the parts together. The assembled mandrel is shown in \@ref(fig:plastic-cord-mandrel) and \@ref(fig:plastic-cord-mandrel-end-view)
+
+```{r plastic-cord-mandrel, fig.cap="Mandrel for forming the plastic cord that surrounds the magnets", echo = FALSE, out.width='70%', fig.align='center'}
+knitr::include_graphics("images/plastic_cord_mandrel.jpg")
+```
+
+```{r plastic-cord-mandrel-end-view, fig.cap="End view of mandrel", echo = FALSE, out.width='70%', fig.align='center'}
+knitr::include_graphics("images/plastic_cord_mandrel_end_view.jpg")
+```
+
+Taper the last 15mm of the tips of the plastic cord so it can fit more closely against the trim line. 
+
+To assemble the loose end of the trimline, place 55mm of the unfinished end of the Amsteel on the tapered end of the magnet wrap. In your hand, place two 18mm x 3mm disc magnets edge-to-edge and align the polarity. Carefully place the pair of magnets edge-to-edge at the tip of the Amsteel aligning the long axis of the magnets with the axis of the Amsteel. It can be helpful to peel the backing of the insignia cloth incrementally, exposing only the glue needed to install the next component.
 
 Place the curve of the plastic cord closely around magnets. The tapered ends of the plastic cord should fit closely around the trim line. 
 
 Fold the cloth around magnets and trim line. The folds should be parallel to the trim line axis. The cloth must lay flat over the magnets. Because the trim line is narrower than the magnets, a crease will form where the magnets meet the trim line. This crease must not be _on_ the magnets. Make sure the crease is _above_ the magnets. Pinch the cloth closed below the magnets.
 
-Stitch the magnet-wrap to the Amsteel so the cloth won't creep in use. Use a triple zig-zag stitch and dark thread to secure the warp. The attractive force of the magnets is so high, it can make the trim difficult to work in a sewing machine. To reduce this effect, cut two small rectangles of cardboard from a cereal box and place them under the magnets. The increased distance between the magnets and the steel of the sewing machine should make the forces manageable. Be careful to not hit the magnets or the plastic cord with the sewing needle lest bad things happen. 
+Stitch the magnet-wrap to the Amsteel so the cloth won't creep in use. Use a long straight stitch and dark thread to secure the wrap. The attractive force of the magnets is so high, it can make the trim difficult to work in a sewing machine. To reduce this effect, cut two small rectangles of cardboard from a cereal box and place them under the magnets. The increased distance between the magnets and the steel of the sewing machine should make the forces manageable. Be careful to not hit the magnets or the plastic cord with the sewing needle lest bad things happen. 
+
+### Knots and Balls
 
 Tie an overhand knot at the point where the magnet wrap meets the Amsteel. The knot should be just barely above the plastic cord buried inside the magnet wrap.
 
-Thread a 25mm ball onto the trimline, recessed side first. Slide it all the way to the knot next to the magnet wrap. Mark the trimline 65mm above the top of the green ball. Tie and overhand knot in the trimline just above that knot. Now thread a 12mm ball onto the trim line and slide it all the way to the knot. The finished product can be seen in Figure \@ref(fig:finished-end)
-
-```{r finished-end, fig.cap="Grip end of the trim line with balls offset to show knots (above) and thread end (below)", echo = FALSE, out.width='70%', fig.align='center'}
-knitr::include_graphics("images/finished_end_of_trimline.jpg")
-```
+Thread a medium stopper ball onto the trimline, recessed side first. Slide it all the way to the knot next to the magnet wrap. Mark the trimline 65mm above the top of the medium ball. Tie an overhand knot in the trimline just above that mark. Now thread a small ball onto the trim line and slide it all the way to the knot. The finished product can be seen in Figure \@ref(fig:finished-end)
 
 
 ## Cleat Jacket
