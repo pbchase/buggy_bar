@@ -148,36 +148,16 @@ knitr::include_graphics("images/cleat_jacket_template.pdf")
 ```
 
 
-## Separation block and low friction ring
+## Separation block
 
-The juncture of the flying lines and the trim line is managed by an assembly of a plastic block known as the separation block and a low friction ring connected via a spliced length of 7/64" Amsteel.
+The juncture of the flying lines and the trim line is managed by the _separation block_ as shown in Figure \@ref(fig:separation-block). 
 
-To build the assembly, you will need 295mm of 7/64" Amsteel Blue (preferably gray), two 20mm x 65mm rectangles of insignia cloth, one FR5 Tylaska Rigging Ring Ferrule or similar, and one Separation Block release 1.4.2. 
-
-Pick out 4 strands from one end of Amsteel pulling out one strand at each of 5, 10, 15, and 20mm to form a tapered end. Cut each strand off with a razor blade. Wrap that end of theAmsteel with a rectangle of insignia cloth. Wrap the 20mm dimension around the line with 30mm on the line and 35mm off. The result should look Figure \@ref(fig:unfinished-separation-block-cord)
-
-```{r unfinished-separation-block-cord, fig.cap="Unfinished separation block cord", echo = FALSE, out.width='70%', fig.align='center'}
-knitr::include_graphics("images/unfinished_separation_block_cord.jpg")
+```{r separation-block, fig.cap="Picture of separation block", echo = FALSE, out.width='70%', fig.align='center'}
+knitr::include_graphics("images/separation_block.jpg")
 ```
 
+This component provides a curved path to serve as a pully for the trim line and a guide path for each of the main flying lines. The [3-D model](https://github.com/pbchase/kite_bar_parts/blob/master/printable/separation_block_v2_6mm_trimline_bore_7e61bdd.stl) for this component is accessible in the [Kite Bar Barts](https://github.com/pbchase/kite_bar_parts) repository. Should you print this model, use a 1/8" drill to clean out the flying-line bore holes before installation. This step will simplify threading the flying lines.
 
-Measure 95mm from the tip of the tapered line. Pierce the line at 95mm and start a brummel splice at the mark. Place the low-friction ring inside the loop. Pull the loop tight around the ring. Run a wire fid from a point 20mm from the opposite end of the line. Pop the fid out of the line at the ring. Use the wire fid to pull the tapered end inside. When you pull the end of the tapered end out, peel off the extra insignia cloth before you bury it. Use the second piece of insignia cloth to put a threading end on the finished piece. The result should have the dimension in Figure \@ref(fig:finished-separation-block-cord).  It should look like the picture in Figure \@ref(fig:finished-separation-block-cord-pic)
-
-```{r finished-separation-block-cord, fig.cap="finished separation block cord", echo = FALSE, out.width='70%', fig.align='center'}
-knitr::include_graphics("images/finished_separation_block_cord.jpg")
-```
-
-
-
-```{r finished-separation-block-cord-pic, fig.cap="Picture of a finished separation block cord", echo = FALSE, out.width='70%', fig.align='center'}
-knitr::include_graphics("images/finished_separation_block_cord_pic.jpg")
-```
-
-Thread the resulting line-ring assembly through the center bore of the separation block. Tie an overhand knot in the Amsteel taking out as much slack as possible. The completed assembly is show in  Figure \@ref(fig:finished-separation-block-assembly)
-
-```{r finished-separation-block-assembly, fig.cap="Picture of separation block assembly", echo = FALSE, out.width='70%', fig.align='center'}
-knitr::include_graphics("images/finished_separation_block_assembly.jpg")
-```
 
 ## Flag line
 
