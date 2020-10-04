@@ -181,9 +181,9 @@ Remove the spring clips and cut off the bungie that protrudes from the jacket. T
 
 To the lower end of the flag line--the end that has not been fattened--affix a quick-release tether. The tether will require one 2" cotter pin, 40mm of 1/2" OD vinyl tubing, 240mm of 1/16" Ultrex 12, ~120mm of 2mm bungee, and a small ball or a stub of vinyl tubing.
 
-Cut the end off the bucket handle and round it to form two parallel disks connected at their centers.  You are creating the yellow object in the picture below. Cross drill through the vinyl tubing about 5mm from the end with a 1/16" bit. Cut the cotter pin down to 40mm and round the end on coarse stone. splice the 200mm of Ultrex to form a line with a loop on each end. One these line will need to accept the bucket handle end, so size it appropriately.
+Cross drill through the 40mm of vinyl tubing about 5mm from the end with a 7/64" bit. Cut the cotter pin down to 40mm and round the end on coarse stone or file. splice the 200mm of Ultrex to form a line with a loop on each end. One these line will need to accept the bucket handle end, so size it appropriately.
 
-Larkshead the cotter pin and Ultrex line to the end of the flag line. Thread the 2mm bungie through the holes in the vinyl and the larkshead. Tie off each end of the bungie with an overhand knot to retain it. Leave a 5mm tail on each end.  Tie off the second side of the bungie, cut it and apply cyanoacrylate glue to prevent fraying. Pull the Ultrex line down through the vinyl and slide the bucket handle end into the the loop. A finished assembly--albeit with PVC in place of the vinyl--is shown in \@ref(fig:flagline-disconnect)
+Larkshead the cotter pin and Ultrex line to the end of the flag line. Thread the 2mm bungie through the holes in the vinyl and the larkshead. Tie off each end of the bungie with an overhand knot to retain it. Leave a 5mm tail on each end.  Tie off the second side of the bungie, cut it and apply cyanoacrylate glue to prevent fraying. Pull the Ultrex line down through the vinyl and larkshead the small ball onto the loop. A finished assembly is shown in \@ref(fig:flagline-disconnect)
 
 ```{r flagline-disconnect, fig.cap="Flagline disconnect", echo = FALSE, out.width='70%', fig.align='center'}
 knitr::include_graphics("images/flagline_disconnect.jpg")
