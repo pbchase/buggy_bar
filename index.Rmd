@@ -219,6 +219,10 @@ knitr::include_graphics("images/04_kite_bar_rigging_2015-10-06_2.png")
 
 This bar uses a small chickenloop that provides a quick disconnect from the kite, trim line rention, and a below-the-bar grip. The quick disconnect will separate the trim line from the flier's harness when pushed away. The trim lime retention feature is required to keep the bar from sliding off the end of the trim line. Below-the-bar grip is useful for Arc fliers when disconnecting while the kite is at zenith. The chickenloop is as short as possible to maximize the flier's reach and useable bar throw. That's how it gets the moniker _mini-chickenloop_ or _MCL_.
 
+```{r mini-chickenloop, fig.cap="Assembled mini-chickenloop ", echo = FALSE, out.width='70%', fig.align='center'}
+knitr::include_graphics("images/mini_chickenloop.jpg")
+```
+
 The MCL is constructed from 320mm of 2.5mm (7/64") Amsteel Blue, 140mm of 2mm bungie, a 50mm cotter pin, a 24mm pin of 0.102" diameter stainless steel, and a 3-D printed chickenloop release. The 3-D model for the [chickenloop release](https://github.com/pbchase/kite_bar_parts/blob/master/printable/chickenloop_release_d1928a2.stl) is accessible in the [Kite Bar Barts](https://github.com/pbchase/kite_bar_parts) repository. Examples of the printed part are shown in Figure \@ref(fig:chickenloop-release).
 
 ```{r chickenloop-release, fig.cap="Mini-chickenloops as printed", echo = FALSE, out.width='70%', fig.align='center'}
