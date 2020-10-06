@@ -266,7 +266,13 @@ knitr::include_graphics("images/mini_chicken_loops.jpg")
 
 ## Bar assembly and threading line
 
-To thread the trim line, put the threaded end through the cleat, entering at the jam side. Exit the cleat at the top, routing up through the low friction ring of the separation block. Reenter the cleat and go through its serpentine path. Leave just enough line above the cleat to provide the desired trim. Route the line through the cleat bead. Go down through the center of the bar, through a ~25mm ball to retain the trim line in the bar.  Then go back through the center bore of the bar and through the cleat bead. Slide the cleat beaddown towards the bar to leave lots of slack next to the cleat. Before going any further, make sure the line already passing through the cleat's serpentine has 5 cm of loop on each side of the cleat. You'll need this slack in the next step.
+To thread the trim line, put the threaded end through the cleat, entering at the jam side. Exit the cleat at the top, routing up through the separation block. Reenter the cleat and go through its serpentine path. Leave just enough line above the cleat to provide the desired trim. Route the line through the cleat bead. Go down through the center of the bar, through the chickenloop release, through the near loop of the chickenloop line, then up through the chickenloop release, but on the other side of the retaining pin. See Figure  \@ref(fig:bar-assembly-mcl).
+
+```{r bar-assembly-mcl, fig.cap="Threading the trim line through the Mini-chickenloop", echo = FALSE, out.width='70%', fig.align='center'}
+knitr::include_graphics("images/bar_assembly_mcl.jpg")
+```
+
+Then go back through the center bore of the bar and through the cleat bead. Slide the cleat bead down towards the bar to leave lots of slack next to the cleat. Before going any further, make sure the line already passing through the cleat's serpentine has 5 cm of loop on each side of the cleat. You'll need this slack in the next step.
 
 Then route the loose end of the trim line _up_ through the cleat's serpentine path. You want to make large parallel loops of line going back and forth through the serpentine. Route about 5cm of the trim out of the top of the cleat.
 
@@ -299,10 +305,10 @@ You'll want to verify you can reach the trimline end under normal flying conditi
 
 ## Attaching the flying lines
 
-With the trim line routed, the flying lines can be attached. Route one the flying lines down through the separation block and attach the stub line stopper to the end-loop of the flying line with a larks head to retain the flying line in the stopper. 
+With the trim line routed, the flying lines can be attached. Route the right-side flying line down through the separation block and attach the stub line stopper to the end-loop of the flying line with a larks head to retain the flying line in the stopper. 
 
 
-Route the other flying line through the remaining hole in the separation block. Continue routing it through the cleat bead and then the bar. Attach the flag line to the flying line with a larks head. Pull flag line up through the bar and bead with the flying line. The routed lines should look like Figure \@ref(fig:flag-line-at-separation-block) at the separation block. The over-all assembly should look like \@ref(fig:upper-section-of-assembled-bar)
+Route the left-side flying line through the remaining hole in the separation block. Continue routing it through the cleat bead and then the bar. Attach the flag line to the flying line with a larks head. Pull flag line up through the bar and bead with the flying line. The routed lines should look like Figure \@ref(fig:flag-line-at-separation-block) at the separation block. The over-all assembly should look like \@ref(fig:upper-section-of-assembled-bar)
 
 ```{r flag-line-at-separation-block, fig.cap="The flag line meets the flying line.", echo = FALSE, out.width='70%', fig.align='center'}
 knitr::include_graphics("images/flag-line-at-separation-block.jpg")
