@@ -257,6 +257,10 @@ Cut 140mm of 2mm bungie. Apply a little bit of cyanoacrylate glue on each end an
 
 Thead the untied end of the bungie from the top of the chickenloop release and out the bottom. Thread the bungie through the eye of the cotter pin then up the through the remaining vertical bore hole and out the top. Tie an overhand knot in the end of the bungie to secure the end at the top of the chickenloop release. 
 
+```{r collection-of-mcls, fig.cap="A collecion of mini-chicken loops", echo = FALSE, out.width='70%', fig.align='center'}
+knitr::include_graphics("images/mini_chicken_loops.jpg")
+```
+
 
 # Assembly
 
