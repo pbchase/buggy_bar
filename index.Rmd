@@ -81,7 +81,7 @@ knitr::include_graphics("images/pilot-side-borehole.jpg")
 
 ## Trim Line
 
-To build the trimline, you will need 2510mm of Amsteel Blue (use only the gray color), 80mm x 105m of insignia cloth (dark colors are better), two 18mm x 3mm nickel-plated neodymium disc magnets, about 150mm of 0.095" plastic cord, one small stopper ball and one medium stopper ball. 
+To build the trimline, you will need 2510mm of Amsteel Blue (use only the gray color), 80mm x 105m of insignia cloth (dark colors are better), two 18mm x 3mm nickel-plated neodymium disc magnets, 150mm of 0.095" plastic cord, one small stopper ball and one medium stopper ball. 
 
 ### Starting the trim line and making the threading end
 
@@ -109,13 +109,15 @@ Form the wrap for the magnets by cutting a strip of sailmaker's insignia cloth a
 knitr::include_graphics("images/magnetic_trimline_tails_9.jpg")
 ```
 
-To make the reinforcement for the wrap, cut a segment of round, 0.95" diameter plastic weed-whacker cord 150mm long to wrap around the magnets and up the trim line. Bend the plastic cord until the ends meet, then clamp the ends together with a spring clip. Heat the middle of the plastic cord with a low flame. Dance the cord through the flame flipping and turning as you go to assure event heating. When the bend relaxes, form it around a 16mm x 36mm mandrel of CPVC pipe. The mandrel can be made from 5/8" diameter CPVC piping, a few strip cut from a plastic bucket to form a spacer and two screws to hold the parts together. The assembled mandrel is shown in \@ref(fig:plastic-cord-mandrel) and \@ref(fig:plastic-cord-mandrel-end-view)
+To make the reinforcement for the wrap, cut a segment of round, 0.095" diameter plastic weed-whacker cord 150mm long to wrap around the magnets and up the trim line. Bend the plastic cord until the ends meet, then clamp the ends together with a spring clip. Heat the middle of the plastic cord with a low flame. Dance the cord through the flame flipping and turning as you go to assure even heating. When the bend relaxes, form it around a 16mm x 36mm mandrel of CPVC pipe. With the plastic pulled tight against the mandrel, cool the plastic in tap water. 
+
+The mandrel can be made from 5/8" diameter CPVC piping, a few strip cut from a plastic bucket to form a spacer and two screws to hold the parts together. The assembled mandrel is shown in Figures \@ref(fig:plastic-cord-mandrel) and \@ref(fig:plastic-cord-mandrel-end-view)
 
 ```{r plastic-cord-mandrel, fig.cap="Mandrel for forming the plastic cord that surrounds the magnets", echo = FALSE, out.width='70%', fig.align='center'}
 knitr::include_graphics("images/plastic_cord_mandrel.jpg")
 ```
 
-```{r plastic-cord-mandrel-end-view, fig.cap="End view of mandrel", echo = FALSE, out.width='70%', fig.align='center'}
+```{r plastic-cord-mandrel-end-view, fig.cap="End view of the mandrel", echo = FALSE, out.width='70%', fig.align='center'}
 knitr::include_graphics("images/plastic_cord_mandrel_end_view.jpg")
 ```
 
@@ -125,7 +127,7 @@ To assemble the loose end of the trimline, place 55mm of the unfinished end of t
 
 Place the curve of the plastic cord closely around magnets. The tapered ends of the plastic cord should fit closely around the trim line. 
 
-Fold the cloth around magnets and trim line. The folds should be parallel to the trim line axis. The cloth must lay flat over the magnets. Because the trim line is narrower than the magnets, a crease will form where the magnets meet the trim line. This crease must not be _on_ the magnets. Make sure the crease is _above_ the magnets. Pinch the cloth closed below the magnets.
+Fold the cloth around magnets and trim line foldinfg one side completely and then the other. The folds should be parallel to the trim line axis. The cloth must lay flat over the magnets. Because the trim line is narrower than the magnets, a crease will form where the magnets meet the trim line. This crease must not be _on_ the magnets. Make sure the crease is _above_ the magnets. Pinch the cloth closed below the magnets and round end of the pinched-off fabric. 
 
 Stitch the magnet-wrap to the Amsteel so the cloth won't creep in use. Use a long straight stitch and dark thread to secure the wrap. The attractive force of the magnets is so high, it can make the trim difficult to work in a sewing machine. To reduce this effect, cut two small rectangles of cardboard from a cereal box and place them under the magnets. The increased distance between the magnets and the steel of the sewing machine should make the forces manageable. Be careful to not hit the magnets or the plastic cord with the sewing needle lest bad things happen. 
 
@@ -133,7 +135,7 @@ Stitch the magnet-wrap to the Amsteel so the cloth won't creep in use. Use a lon
 
 Tie an overhand knot at the point where the magnet wrap meets the Amsteel. The knot should be just barely above the plastic cord buried inside the magnet wrap.
 
-Thread a medium stopper ball onto the trimline, recessed side first. Slide it all the way to the knot next to the magnet wrap. Mark the trimline 65mm above the top of the medium ball. Tie an overhand knot in the trimline just above that mark. Now thread a small ball onto the trim line and slide it all the way to the knot. The finished product can be seen in Figure \@ref(fig:finished-end)
+Thread a medium stopper ball onto the trimline, recessed side first. Slide it all the way to the knot next to the magnet wrap. If the ball does not jam tight on the knot, retie the knot as a figure-eight to make it fatter and improve the fit against the inside of the ball. Mark the trimline 65mm above the top of the medium ball. Tie an overhand knot in the trimline just above that mark. Now thread a small ball onto the trim line and slide it all the way to the knot. Again, if the ball is not tight on the knot, retie it as a figure-eight knot to adjust the fit. The finished product can be seen in Figure \@ref(fig:finished-end)
 
 
 ## Cleat Jacket
