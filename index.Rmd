@@ -81,15 +81,14 @@ knitr::include_graphics("images/pilot-side-borehole.jpg")
 
 ## Trim Line
 
-To build the trimline, you will need 2510mm of Amsteel Blue (use only the gray color), 80mm x 105m of insignia cloth (dark colors are better), two 18mm x 3mm nickel-plated neodymium disc magnets, one small stopper ball and one medium stopper ball. 
+To build the trimline, you will need 2510mm of Amsteel Blue (use only the gray color), 80mm x 105m of insignia cloth (dark colors are better), two 18mm x 3mm nickel-plated neodymium disc magnets, about 150mm of 0.095" plastic cord, one small stopper ball and one medium stopper ball. 
 
-Cut a segment of gray 4mm Amsteel Blue to a length of 2510mm with a fresh razor blade to get a clean cut. 
+### Starting the trim line and making the threading end
 
-### Threading end of the trim line
+Cut a segment of gray 4mm Amsteel Blue to a length of 2510mm with a fresh razor blade to get a clean cut. Pick out 4 strands from one end of line pulling one strand at each of 5, 10, 15, and 20mm to form a tapered end. Cut each strand off with a razor blade. 
 
-One end of the trim line will be wrapped in a strip of insignia cloth that extends off the end to form a strip of fabric used to thread the trim line through the other components. Cut a strip of insignia cloth 20mm x 90mm to use as this wrap on the threading end.
+Cut a strip of insignia cloth 20mm x 90mm to use as a wrap on the thinned end of the trim line. Wrap the last 30mm of the thinned end of the trim line with the 20 x 90mm insignia cloth wrapping the 20mm dimension tightly around the Amsteel. 60mm of the cloth will extend past the end of the trim line. Fold this portion of the cloth on itself as you wrap to form a long, narrow, flat strip.
 
-Using the 4mm Amsteel as the foundation of the trimline, pick out 4 strands from one end of line pulling one strand at each of 5, 10, 15, and 20mm to form a tapered end. Cut each strand off with a razor blade. Wrap the last 30mm of that end of the trim line with the 20 x 90mm insignia cloth wrapping the 20mm dimension tightly around the Amsteel. 60mm of the cloth will extend past the end of the line. Fold this portion of the cloth on itself as you wrap to form a long, narrow, flat strip. 
 
 ```{r thread-end, fig.cap="Threading end of the trim line formed with a wrap of insignia cloth", echo = FALSE, out.width='70%', fig.align='center'}
 knitr::include_graphics("images/thread_end_of_trimline.jpg")
@@ -104,7 +103,7 @@ The loose end of the trimline is designed to be easily gripped for trim control 
 knitr::include_graphics("images/finished_end_of_trimline.jpg")
 ```
 
-Form the wrap for the magents by cutting a strip of sailmaker's insignia cloth according to the dimensions shown in Figure \@ref(fig:magnet-wrap) below to wrap the magnets.
+Form the wrap for the magnets by cutting a strip of sailmaker's insignia cloth according to the dimensions shown in Figure \@ref(fig:magnet-wrap) to wrap the magnets.
 
 ```{r magnet-wrap, fig.cap="Insignia cloth patch to hold trimline magnets", echo = FALSE, out.width='70%', fig.align='center'}
 knitr::include_graphics("images/magnetic_trimline_tails_9.jpg")
