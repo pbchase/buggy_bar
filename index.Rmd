@@ -144,6 +144,8 @@ The Aero Cleat requires a jacket of ferromagnetic stainless steel sheet to creat
 
 Disassemble the cleat and reassemble it with metal sheet between the two sections of the cleat. Bend the metal sheet around the metal portion of the Aero Cleat. To do this, clamp one side of the jacket in a vise. Use a block of wood and a mallet to fold the other side against metal side of the cleat. Flip the cleat over to expose the unfolded wing of the jacket and clamp the cleat in the vise. Again, use the block of wood and a mallet to fold the remaining wing. Remove the cleat from the vise, lay it flat on a table top and use the block and mallet to crease the folds. 
 
+If you don't have a bench vise or a mallet, you can fold the wings with a pair of boards and pair of boots. Place the re-assembled cleat on a board on the ground, with the metal cleat side up. Step carefully on the metal part of the cleat to fold the lower wing of the jacket against the metal of the cleat. Flip the cleat over to place the remaining wing against the wood. Again, step on the cleat to fold the wing against the metal of the cleat. Put a second board on top of the cleat and stomp it a few times to finish the crease of the jacket. 
+
 ```{r cleat-jacket-template, fig.cap="Template for making an Aero Cleat Jacket", echo = FALSE, out.width='100%', fig.align='center'}
 knitr::include_graphics("images/cleat_jacket_template.pdf")
 ```
