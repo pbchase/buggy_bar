@@ -197,12 +197,12 @@ knitr::include_graphics("images/flagline_disconnect.jpg")
 
 The non-flagging flying line needs to be terminated at the underside of the separation block in the same manner as the flying line that _does_ flag. This is accomplished with a short loop called the _stub line_. To match the upper end of the flag line, the stub line is made from 300mm of 1/16" Ultrex 12.
 
-Mark the 300mm line segment 130mm from one end. Use a wire fid to splice the 130mm segment inside the 170mm segment that remains. The resulting segment will be about 155mm long.  The segment is mostly double thickness with about 30mm of single thickness line on the end. Apply cyanoacrylate glue to the unfinished end. Fold the 155mm segment in half and tie an overhand knot to form a small loop. The finished product is about 50mm long.
+Mark the 300mm line segment 130mm from one end. Use a wire fid to splice the 130mm segment inside the 170mm segment that remains. The resulting segment will be about 155mm long.  The segment is mostly double thickness with about 30mm of single thickness line on the end. Apply cyanoacrylate glue or a small wrap of insignia cloth to the unfinished end. Fold the 155mm segment in half and tie an overhand knot to form a small loop. The finished product is about 50mm long.
 
 
 ## Bar End Loops
 
-The kite bar requires a loop on each end to affix the steering lines. These loops require two 350mm segments of 1/16" Ultrex 12. To make them fold each loop in half and tie an over hand knot at the end with about 10mm of tail. The length of these two lines _must_ match. To acheive this, hook the loop ends around a rounded component on a bench vise. Gently pinch the line with an adjustable wrench on the loop side of the knots. Use the wrench to pull the knots evenly while you pull the ends with standard pliers. With the knot complete and the lines equal in length, put little cyanoacrylate glue on the line ends to prevent fraying. See the detail diagram in Figure \@ref(fig:bar-end-loop).
+The kite bar requires a loop on each end to affix the steering lines. These loops require two 350mm segments of 1/16" Ultrex 12. To make them, fold each loop in half and tie an overhand knot at the end with about 10mm of tail. The length of these two lines _must_ match. To achieve this, hook the loop ends around a rounded component on a bench vise. Gently pinch the line with an adjustable wrench on the loop side of the knots. Use the wrench to pull the knots evenly while you pull the ends with standard pliers. With the knot complete and the lines equal in length, put little cyanoacrylate glue on the line ends to prevent fraying. See the detail diagram in Figure \@ref(fig:bar-end-loop).
 
 ```{r bar-end-loop, fig.cap="Bar End Loop", echo = FALSE, out.width='70%', fig.align='center'}
 knitr::include_graphics("images/05_kite_bar_rigging_2015-10-06_3.jpg")
