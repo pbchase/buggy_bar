@@ -210,13 +210,13 @@ knitr::include_graphics("images/05_kite_bar_rigging_2015-10-06_3.jpg")
 
 ## Steering Lines
 
-The steering lines run from the bar end loops to the ends of the back lines. They require two 1140mm segments of 1/16" Ultrex 12. Mark each segment at 110, 190, 270, and 410mm. Use these marks to create a brummel splice with an 80mm loop.
+The steering lines run from the bar end loops to the ends of the back lines. They require two 1165mm segments of 1/16" Ultrex 12. Mark one end of each segment at 110, 190, 270, and 410mm. Use these marks to create a brummel splice with an 80mm loop. See the loop details in Figure \@ref(fig:steering-lines).
 
-With the loops complete, stretch the pair of lines evenly and mark both lines at about 25mm from the non-loop end. Tie and overhand knot in each line at the mark. Gently pinch the line with an adjustable wrench on the loop side of the knots. Use the wrench to pull the knots evenly while you pull the ends with standard pliers. With the knot complete and the lines equal in length, put little cyanoacrylate glue on the line ends to prevent fraying. See the construction details in Figure \@ref(fig:steering-lines).
-
-```{r steering-lines, fig.cap="Steering line construction details", echo = FALSE, out.width='70%', fig.align='center'}
+```{r steering-lines, fig.cap="Steering line loop details", echo = FALSE, out.width='70%', fig.align='center'}
 knitr::include_graphics("images/04_kite_bar_rigging_2015-10-06_2.png")
 ```
+
+With the loops complete, stretch the pair of lines evenly and mark both lines at about 50mm from the non-loop end. Tie an overhand knot in each line at the mark. Gently pinch the line with an adjustable wrench on the loop side of the knots. Use the wrench to pull the knots evenly while you pull the ends with standard pliers. With the knot complete and the lines equal in length, tie a second overhand knot close to the first knot to act as a stopper for the first. Then put a little cyanoacrylate glue or a small wrap of insignia cloth on the line ends to prevent fraying. 
 
 ## Mini-chickenloop
 
