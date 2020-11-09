@@ -220,7 +220,7 @@ With the loops complete, stretch the pair of lines evenly and mark both lines at
 
 ## Mini-chickenloop
 
-This bar uses a small chickenloop that provides a quick disconnect from the kite, trim line retention, and a below-the-bar grip. The quick disconnect will separate the trim line from the flier's harness when pushed away. The trim lime retention feature is required to keep the bar from sliding off the end of the trim line. Below-the-bar grip is useful for Arc fliers when disconnecting while the kite is at zenith. The chickenloop is as short as possible to maximize the flier's reach and useable bar throw. That's how it gets the moniker _mini-chickenloop_ or _MCL_.
+This bar uses a small chickenloop that provides a quick disconnect from the kite, trim line retention, and a below-the-bar grip. The quick disconnect will separate the trim line from the flier's harness when pushed away. The trim lime retention feature is required to keep the bar from sliding off the end of the trim line. Below-the-bar grip is useful for Arc fliers when disconnecting while the kite is at zenith. The chickenloop is as short as possible to maximize the flier's reach and the usable bar throw. That's how it gets the moniker _mini-chickenloop_ or _MCL_.
 
 ```{r mini-chickenloop, fig.cap="Assembled mini-chickenloop ", echo = FALSE, out.width='70%', fig.align='center'}
 knitr::include_graphics("images/mini_chickenloop.jpg")
@@ -234,7 +234,7 @@ knitr::include_graphics("images/chickenloop_release.jpg")
 
 ### Preparing the chickenloop release
 
-Drill out the long bores of the chickenloop release with a 7/64" drill. Drill it out in two passes the avoid stressing the thin walls of these bores holes. For the cross bore, again use a 7/64" drill, but do not drill completely through both walls of the chickenloop release. Instead, drill through the first wall, across the large center bore, and partially into the second wall. This will make the initial insertion and alignment of the trimline retention pin simplier.
+Drill out the long bores of the chickenloop release with a 7/64" drill. Drill it out in two passes to avoid stressing the thin walls of these bores holes. For the cross bore, again use a 7/64" drill, but do not drill completely through both walls of the chickenloop release. Instead, drill through the first wall, across the large center bore, and partially into the second wall. This will make the initial insertion and alignment of the trimline retention pin simpler.
 
 Cut a 24mm segment of the 0.102" diameter stainless rod. Ease each end of this pin with a metal file. Hold the pin with pliers while you briefly heat one tip of the pin in a flame; two seconds in the heat of a propane torch is about enough. You want it hot enough to soften the ABS plastic of the chickenloop release, but no hotter. Slide the hot end of the pin into the completely-drilled hole and into the opposite hole until it stops. Press the pin fully in with a mallet or pliers.
 
@@ -258,7 +258,7 @@ Cut 140mm of 2mm bungie. Apply a little bit of cyanoacrylate glue on each end an
 
 ### Assembling the MCL
 
-Thead the untied end of the bungie from the top of the chickenloop release and out the bottom. Thread the bungie through the eye of the cotter pin then up the through the remaining vertical bore hole and out the top. Tie an overhand knot in the end of the bungie to secure the end at the top of the chickenloop release. 
+Thread the untied end of the bungie from the top of the chickenloop release and out the bottom. Thread the bungie through the eye of the cotter pin then up the through the remaining vertical bore hole and out the top. Tie an overhand knot in the end of the bungie to secure the end at the top of the chickenloop release. 
 
 ```{r collection-of-mcls, fig.cap="A collecion of mini-chicken loops", echo = FALSE, out.width='70%', fig.align='center'}
 knitr::include_graphics("images/mini_chicken_loops.jpg")
