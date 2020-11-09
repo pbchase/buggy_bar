@@ -306,7 +306,7 @@ With the trimline tight in the serpentine path, have a friend help you put the t
 
 You'll want to verify you can reach the trimline end under normal flying conditions. It's easier to assess the cleat position before the flying lines are attached so pause the assembly for a moment to check and adjust the cleat position. To do this, put your harness on, clip the chickenloop into the harness and have a friend pull on the trim line by the separation block. They should pull the bar to your side about 30 degrees above horizontal. Verify you can reach the jaws of the cleat and grab the trim line tail without over-reaching. If you have to stretch to reach the tail, the cleat is too far away. You can move it closer by moving some of the trim line up through the cleat. For each centimeter you need to move the cleat down, you'll need to move two centimeters of line through the cleat toward the kite. Making this adjustment is a bit tedious, but the trim line tail must be in easy reach under load.
 
-## Attaching the flying lines
+## Attaching the main flying lines
 
 With the trim line routed, the flying lines can be attached. Route the right-side flying line down through the separation block and attach the stub line stopper to the end-loop of the flying line with a larks head to retain the flying line in the stopper. 
 
@@ -329,9 +329,9 @@ Pull each bar end loop through one of the holes at the ends of the bar. Route th
 
 ## Steering line leaders
 
-Use a larkshead to attach the loop of each steering line leader to the loop of its steering line. Then attach the knot of the leader to the loop of the bar-end loop with a larks head. Keeping the knot of the leaderline next to the bar minimizes the risk of snagging the steering lines in the components of the bar.
+Use a larks head to attach the loop of each steering line leader to the loop of its steering line. Then attach the knot of the leader to the loop of the bar-end loop with a larks head. Keeping the knot of the leader line next to the bar minimizes the risk of snagging the steering lines in the components of the bar.
 
-With all the lines attached, the trim control let all the way out and the bar pulled all the way back, the tips of all four flying lines should converge to the same point.
+With all the flying lines attached, the trim control let all the way out and the bar pulled all the way back, the tips of all four flying lines should converge to the same point.
 
 
 ```{r include=FALSE}
