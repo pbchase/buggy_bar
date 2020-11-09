@@ -269,15 +269,15 @@ knitr::include_graphics("images/mini_chicken_loops.jpg")
 
 ## Bar assembly and threading line
 
-To thread the trim line, put the threaded end through the cleat, entering at the jam side. Exit the cleat at the top, routing up through the separation block. Reenter the cleat and go through its serpentine path. Leave just enough line above the cleat to provide the desired trim. Route the line through the cleat bead. Go down through the center of the bar, through the chickenloop release, through the near loop of the chickenloop line, then up through the chickenloop release, but on the other side of the retaining pin. See Figure  \@ref(fig:bar-assembly-mcl).
+To thread the trim line, put the threaded end through the cleat, entering at the jam side. Exit the cleat at the top, routing up through the separation block. Reenter the cleat and go through its serpentine path. Leave just enough line above the cleat to provide the desired trim. A spring clamp applied to both sides of the trimline just above the cleat is a good way to maintain the correct amount of trim while threading the trimline. Route the trimline through the cleat bead. Go down through the center of the bar, through the chickenloop release, through the near loop of the chickenloop line, then up through the chickenloop release, but on the other side of the retaining pin. See Figure  \@ref(fig:bar-assembly-mcl).
 
 ```{r bar-assembly-mcl, fig.cap="Threading the trim line through the Mini-chickenloop", echo = FALSE, out.width='70%', fig.align='center'}
 knitr::include_graphics("images/bar_assembly_mcl.jpg")
 ```
 
-Then go back through the center bore of the bar and through the cleat bead. Slide the cleat bead down towards the bar to leave lots of slack next to the cleat. Before going any further, make sure the line already passing through the cleat's serpentine has 5 cm of loop on each side of the cleat. You'll need this slack in the next step.
+Then go back through the center bore of the bar and through the cleat bead. Slide the cleat bead down towards the bar to leave lots of slack next to the cleat. Before going any further, pull trimline into the cleat from below the cleat. Pull enough to provide a 5 cm loop of trimline on each side of the cleat. You'll need this slack in the next step.
 
-Then route the loose end of the trim line _up_ through the cleat's serpentine path. You want to make large parallel loops of line going back and forth through the serpentine. Route about 5cm of the trim out of the top of the cleat.
+Route the loose end of the trim line _up_ through the cleat's serpentine path. You want to make large parallel loops of line going back and forth through the serpentine. Route about 5cm of the trim out of the top of the cleat.
 
 ```{r thread-cleat-1, fig.cap="Form large parallel loops of line on each side of the cleat's serpentine path. Route about 5cm of the trim out of the top of the cleat.", echo = FALSE, out.width='70%', fig.align='center'}
 knitr::include_graphics("images/threading_the_cleat_1.jpg")
@@ -302,9 +302,9 @@ knitr::include_graphics("images/threading_the_cleat_5.jpg")
 ```
 
 
-With the trimline tight in the serpentine path, have a friend help you put the trim line in tension.  Then slide the cleat bead up to the cleat. Look at the cleat from the pilot's point of view and rotatecleat until the jaws are up. Check the rotation of the cleat bead so that the flag line guide path is on the lower left side of the cleat. Pull the trim lines and jam the bead onto the bottom of the cleat. 
+With the trimline tight in the serpentine path, have a friend help you put the trim line in tension. Then slide the cleat bead up to the cleat. Look at the cleat from the pilot's point of view and rotate the cleat until the jaws are up. Check the rotation of the cleat bead so that the flag line guide path is on the lower left side of the cleat. Pull the trim lines and jam the bead onto the bottom of the cleat. 
 
-You'll want to verify you can reach the trimline end under normal flying conditions. It's easier to assess the cleat position  before the flying lines are attached so pause the assembly for a moment to check and adjust the cleat position.  To do this, put your harness on, clip the trim line into the harness and have a friend pull on the trim line by the separation block. They should pull the bar to your side about 30 degrees above horizontal. Verify you can reach the jaws of the cleat and grab the trim line tail without over-reaching. If you have to stretch to reach the tail, the cleat is too far away. You can move it closer by moving some of the trim line up through the cleat. For each centimeter you need to move the cleat down, you'll need to move two centimeters of line through the cleat. Making this adjustment is a bit tedious, but the trim line tail must be in easy reach under load.
+You'll want to verify you can reach the trimline end under normal flying conditions. It's easier to assess the cleat position before the flying lines are attached so pause the assembly for a moment to check and adjust the cleat position. To do this, put your harness on, clip the chickenloop into the harness and have a friend pull on the trim line by the separation block. They should pull the bar to your side about 30 degrees above horizontal. Verify you can reach the jaws of the cleat and grab the trim line tail without over-reaching. If you have to stretch to reach the tail, the cleat is too far away. You can move it closer by moving some of the trim line up through the cleat. For each centimeter you need to move the cleat down, you'll need to move two centimeters of line through the cleat toward the kite. Making this adjustment is a bit tedious, but the trim line tail must be in easy reach under load.
 
 ## Attaching the flying lines
 
