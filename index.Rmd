@@ -24,13 +24,12 @@ knitr::include_graphics("images/finished_bar.jpg")
 * 1 CL826-11AN AERO CLEAT FOR 4-6MM ROPES - HARD ANODISED
 * 2510mm Samson AmSteel-Blue Single Braid Line Diameter: 5/32" (4mm)
 * 4910mm Ultrex 12 1/16"
-* 310mm Samson Ropes Amsteel Blue AS78 Line: 7/64" (2.5mm)
+* 410mm Samson Ropes Amsteel Blue AS78 Line: 7/64" (2.5mm)
 * 1 Small Stopper Ball Green ~5/32" ID, 16-18mm OD
 * 1 Medium Stopper Ball Green ~1/4" ID, 25-32mm OD
 * 1 [Separation Block v2 6mm trimline bore release 1.4.2](https://github.com/pbchase/kite_bar_parts/blob/master/printable/separation_block_v2_6mm_trimline_bore_7e61bdd.stl)
 * 1 [Cleat Bead release 1.4.2](https://github.com/pbchase/kite_bar_parts/blob/1.4.2/printable/cleat_bead_ff7e41a.stl)
 * 1 [Chickenloop Handle](https://github.com/pbchase/kite_bar_parts/blob/master/printable/chickenloop_release_d1928a2.stl)
-* 55mm x 55mm square of 0.025" thick 430 stainless steel sheet.
 * Two 2" long, 1/8" cotter pin
 * 40mm of 1/2" OD vinyl tubing
 * ~260mm of 2mm bungee
@@ -226,7 +225,7 @@ This bar uses a small chickenloop that provides a quick disconnect from the kite
 knitr::include_graphics("images/mini_chickenloop.jpg")
 ```
 
-The MCL is constructed from 320mm of 2.5mm (7/64") Amsteel Blue, 140mm of 2mm bungie, a 50mm cotter pin, a 24mm pin of 0.102" diameter stainless steel, and a 3-D printed chickenloop release. The 3-D model for the [chickenloop release](https://github.com/pbchase/kite_bar_parts/blob/master/printable/chickenloop_release_d1928a2.stl) is accessible in the [Kite Bar Barts](https://github.com/pbchase/kite_bar_parts) repository. Examples of the printed part are shown in Figure \@ref(fig:chickenloop-release).
+The MCL is constructed from 410mm of 2.5mm (7/64") Amsteel Blue, 140mm of 2mm bungie, a release pin made from about 80mm of 0.102" diameter stainless steel, a 24mm pin of 0.102" diameter stainless steel, and a 3-D printed chickenloop release. The 3-D model for the [chickenloop release](https://github.com/pbchase/kite_bar_parts/blob/master/printable/chickenloop_release_d1928a2.stl) is accessible in the [Kite Bar Barts](https://github.com/pbchase/kite_bar_parts) repository. Examples of the printed part are shown in Figure \@ref(fig:chickenloop-release).
 
 ```{r chickenloop-release, fig.cap="Mini-chickenloops as printed", echo = FALSE, out.width='70%', fig.align='center'}
 knitr::include_graphics("images/chickenloop_release.jpg")
@@ -242,11 +241,17 @@ Cut a 24mm segment of the 0.102" diameter stainless rod. Ease each end of this p
 knitr::include_graphics("images/chickenloop_release_with_pin.jpg")
 ```
 
+### Making the quick-release pin 
+
+To make the quick-release pin, you will first need to make a mandrel to bend it around. Use a smooth 4mm diameter nail for, the mandrel. First cut the head off with bolt cutters, then hold it in half in a vise. The U-shaped gap that remains needs to be just wide enough to accommodate the 0.102" wire. The gap also needs to allow the wire to slide all the way through the "U". That's required to the get the Q-R pin off the mandrel once it's formed.
+
+Ease the end of the 0.102" rod on a file. Place the 0.102" rod into the gap of the mandrel and clamp the mandrel U-end down in the vise. The rod should rest on the top surface of the vice's jaws. With 5mm of the rod protruding from the mandrel, bend the rod around the mandrel. A 1/2" wide strap provides a good way to apply bending force on the rod very close to the mandrel to get a tight bend. Continue bending until the straight portion of the rod touches the tip that was protruding from the mandrel. Remove the mandrel from the vice and the QR-pin from the mandrel. Loosely assemble the Q-R pin, you harness's swivel and the chickenloop release to estimate the correct length of the Q-R pin. Mark the pin at the top of the chickenloop release, cut the rod and ease what is now the top end of the Q-R pin with a file. 
+
 ### Preparing the chickenloop line
 
-Cut a 320mm segment of 2.5mm Amsteel. Measure from each end of the Amsteel to make a mark at 52mm and 95mm. Also mark the midline 160mm from either end. Make loops at each end using brummel splices. Pierce the line at the mark nearest the end, Then pull the second mark through the hole to form the loop. When burying the ends, each should terminate very close the midline.
+Cut a 410mm segment of 2.5mm Amsteel. Measure from each end of the Amsteel to make a mark at 55mm and 130mm. Thread chickenloop line through the eye of the Q-R pin. Self-splice the ends of the line together, diving in at the 55mm marks. Use the 130mm marks as the points to insert the fid to pull the end through. With both ends emerging from the 130mm marks, pull the ends hard to make the joint tight. Then grip the joint tightly and milk the ends back into the sleeve portion of the line. 
 
-With the chickenloop line complete, cut a cotter pin to 40mm in length and ease the cut end with a file. Gently spread the pin, slide one of the Amsteel loops in the gap, and force it down to the eye of the cotter pin.
+Fold the loop in half with the splice in the middle. Stitch the two sides of the loop together with a zig-zag stitch. Stitch the middle 110mm of the folded loop leaving a 15 mm loop at each end.
 
 ```{r install-the-cotter-pin, fig.cap="Installing the cotter pin on the chickenloop line", echo = FALSE, out.width='70%', fig.align='center'}
 knitr::include_graphics("images/install_the_cotter_pin.jpg")
@@ -260,7 +265,7 @@ Cut 140mm of 2mm bungie. Apply a little bit of cyanoacrylate glue on each end an
 
 Thread the untied end of the bungie from the top of the chickenloop release and out the bottom. Thread the bungie through the eye of the cotter pin then up the through the remaining vertical bore hole and out the top. Tie an overhand knot in the end of the bungie to secure the end at the top of the chickenloop release. 
 
-```{r collection-of-mcls, fig.cap="A collecion of mini-chicken loops", echo = FALSE, out.width='70%', fig.align='center'}
+```{r collection-of-mcls, fig.cap="A collection of mini-chicken loops", echo = FALSE, out.width='70%', fig.align='center'}
 knitr::include_graphics("images/mini_chicken_loops.jpg")
 ```
 
