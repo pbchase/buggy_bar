@@ -1,0 +1,17 @@
+project:
+  type: book
+
+book:
+  title: "Buggy Bar Book"
+  author: "Philip Chase"
+  date: "4/9/2023"
+  chapters:
+    - index.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+
+editor: visual

@@ -1,9 +1,0 @@
-bookdown::gitbook:
-  css: style.css
-  config:
-    toc:
-      before: |
-        <li><a href="./">Buggy Bar Build Book</a></li>
-      after: |
-
-    edit: https://github.com/pbchase/buggy_bar_build_book/edit/master/%s
