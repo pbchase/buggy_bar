@@ -126,16 +126,9 @@ If you don't have a bench vise or a mallet, you can fold the wings with a pair o
 
 ## Separation block
 
-The juncture of the flying lines and the trim line is managed by the *separation block* as shown in Figure \@ref(fig:separation-block).
+The juncture of the flying lines and the trim line is managed by the *separation block* as shown in @fig-separation-block
 
-```{r}
-#| label = "separation-block",
-#| fig.cap = "Picture of separation block",
-#| echo = FALSE,
-#| out.width = "70%",
-#| fig.align = "center"
-knitr::include_graphics("images/separation_block.jpg")
-```
+![Separation block](images/separation-block.jpg){#fig-separation-block fig-alt="Separation block" fig-align="center"}
 
 This component provides a curved path to serve as a pully for the trim line and a guide path for each of the main flying lines. The [3-D model](https://github.com/pbchase/kite_bar_parts/blob/master/printable/separation_block_v2_6mm_trimline_bore_7e61bdd.stl) for this component is accessible in the [Kite Bar Barts](https://github.com/pbchase/kite_bar_parts) repository. Should you print this model, use a 1/8" drill to clean out the flying-line bore holes before installation. This step will simplify threading the flying lines.
 
@@ -163,16 +156,9 @@ To the lower end of the flag line--the end that has not been fattened--affix a q
 
 Cross drill through the 40mm of vinyl tubing about 5mm from the end with a 7/64" bit. Cut the cotter pin down to 40mm and round the end on coarse stone or file. splice the 200mm of Ultrex to form a line with a loop on each end. One these line will need to accept the bucket handle end, so size it appropriately.
 
-Larkshead the cotter pin and Ultrex line to the end of the flag line. Thread the 2mm bungie through the holes in the vinyl and the larkshead. Tie off each end of the bungie with an overhand knot to retain it. Leave a 5mm tail on each end. Tie off the second side of the bungie, cut it and apply cyanoacrylate glue to prevent fraying. Pull the Ultrex line down through the vinyl and larkshead the small ball onto the loop. A finished assembly is shown in \@ref(fig:flagline-disconnect)
+Larkshead the cotter pin and Ultrex line to the end of the flag line. Thread the 2mm bungie through the holes in the vinyl and the larkshead. Tie off each end of the bungie with an overhand knot to retain it. Leave a 5mm tail on each end. Tie off the second side of the bungie, cut it and apply cyanoacrylate glue to prevent fraying. Pull the Ultrex line down through the vinyl and larkshead the small ball onto the loop. A finished assembly is shown in @fig-flagline-disconnect
 
-```{r}
-#| label = "flagline-disconnect",
-#| fig.cap = "Flagline disconnect",
-#| echo = FALSE,
-#| out.width = "70%",
-#| fig.align = "center"
-knitr::include_graphics("images/flagline_disconnect.jpg")
-```
+![Flagline disconnect](images/flagline-disconnect.jpg){#fig-flagline-disconnect fig-alt="Flagline disconnect" fig-align="center"}
 
 ## Stub line
 
@@ -182,29 +168,15 @@ Mark the 300mm line segment 130mm from one end. Use a wire fid to splice the 130
 
 ## Bar End Loops
 
-The kite bar requires a loop on each end to affix the steering lines. These loops require two 350mm segments of 1/16" Ultrex 12. To make them, fold each loop in half and tie an overhand knot at the end with about 10mm of tail. The length of these two lines *must* match. To achieve this, hook the loop ends around a rounded component on a bench vise. Gently pinch the line with an adjustable wrench on the loop side of the knots. Use the wrench to pull the knots evenly while you pull the ends with standard pliers. With the knot complete and the lines equal in length, put little cyanoacrylate glue on the line ends to prevent fraying. See the detail diagram in Figure \@ref(fig:bar-end-loop).
+The kite bar requires a loop on each end to affix the steering lines. These loops require two 350mm segments of 1/16" Ultrex 12. To make them, fold each loop in half and tie an overhand knot at the end with about 10mm of tail. The length of these two lines *must* match. To achieve this, hook the loop ends around a rounded component on a bench vise. Gently pinch the line with an adjustable wrench on the loop side of the knots. Use the wrench to pull the knots evenly while you pull the ends with standard pliers. With the knot complete and the lines equal in length, put little cyanoacrylate glue on the line ends to prevent fraying. See the detail diagram in @fig-bar-end-loop
 
-```{r}
-#| label = "bar-end-loop",
-#| fig.cap = "Bar End Loop",
-#| echo = FALSE,
-#| out.width = "70%",
-#| fig.align = "center"
-knitr::include_graphics("images/05_kite_bar_rigging_2015-10-06_3.jpg")
-```
+![Bar end loop](images/bar-end-loop.jpg){#fig-bar-end-loop fig-alt="Bar end loop" fig-align="center"}
 
 ## Steering Lines
 
-The steering lines run from the bar end loops to the ends of the back lines. They require two 1165mm segments of 1/16" Ultrex 12. Mark one end of each segment at 110, 190, 270, and 410mm. Use these marks to create a brummel splice with an 80mm loop. See the loop details in Figure \@ref(fig:steering-lines).
+The steering lines run from the bar end loops to the ends of the back lines. They require two 1165mm segments of 1/16" Ultrex 12. Mark one end of each segment at 110, 190, 270, and 410mm. Use these marks to create a brummel splice with an 80mm loop. See the loop details in @fig-steering-line-loop-details
 
-```{r}
-#| label = "steering-lines",
-#| fig.cap = "Steering line loop details",
-#| echo = FALSE,
-#| out.width = "70%",
-#| fig.align = "center"
-knitr::include_graphics("images/04_kite_bar_rigging_2015-10-06_2.png")
-```
+![Steering line loop details](images/steering-line-loop-details.png){#fig-steering-line-loop-details fig-alt="Steering line loop details" fig-align="center"}
 
 With the loops complete, stretch the pair of lines evenly and mark both lines at about 50mm from the non-loop end. Tie an overhand knot in each line at the mark. Gently pinch the line with an adjustable wrench on the loop side of the knots. Use the wrench to pull the knots evenly while you pull the ends with standard pliers. With the knot complete and the lines equal in length, tie a second overhand knot close to the first knot to act as a stopper for the first. Then put a little cyanoacrylate glue or a small wrap of insignia cloth on the line ends to prevent fraying.
 
@@ -212,25 +184,11 @@ With the loops complete, stretch the pair of lines evenly and mark both lines at
 
 This bar uses a small chickenloop that provides a quick disconnect from the kite, trim line retention, and a below-the-bar grip. The quick disconnect will separate the trim line from the flier's harness when pushed away. The trim lime retention feature is required to keep the bar from sliding off the end of the trim line. Below-the-bar grip is useful for Arc fliers when disconnecting while the kite is at zenith. The chickenloop is as short as possible to maximize the flier's reach and the usable bar throw. That's how it gets the moniker *mini-chickenloop* or *MCL*.
 
-```{r}
-#| label = "mini-chickenloop",
-#| fig.cap = "Assembled mini-chickenloop ",
-#| echo = FALSE,
-#| out.width = "70%",
-#| fig.align = "center"
-knitr::include_graphics("images/mini_chickenloop.jpg")
-```
+![Assembled mini-chickenloop](images/assembled-mini-chickenloop.jpg){#fig-assembled-mini-chickenloop-a fig-alt="Assembled mini-chickenloop" fig-align="center"}
 
-The MCL is constructed from 410mm of 2.5mm (7/64") Amsteel Blue, 140mm of 2mm bungie, a release pin made from 80mm of 0.102" diameter stainless steel, a 24mm pin of 0.102" diameter stainless steel, and a 3-D printed chickenloop release. The 3-D model for the [chickenloop release](https://github.com/pbchase/kite_bar_parts/blob/master/printable/chickenloop_release_d1928a2.stl) is accessible in the [Kite Bar Barts](https://github.com/pbchase/kite_bar_parts) repository. Examples of the printed part are shown in Figure \@ref(fig:chickenloop-release).
+The MCL is constructed from 410mm of 2.5mm (7/64") Amsteel Blue, 140mm of 2mm bungie, a release pin made from 80mm of 0.102" diameter stainless steel, a 24mm pin of 0.102" diameter stainless steel, and a 3-D printed chickenloop release. The 3-D model for the [chickenloop release](https://github.com/pbchase/kite_bar_parts/blob/master/printable/chickenloop_release_d1928a2.stl) is accessible in the [Kite Bar Barts](https://github.com/pbchase/kite_bar_parts) repository. Examples of the printed part are shown in @fig-chickenloop-release
 
-```{r}
-#| label = "chickenloop-release",
-#| fig.cap = "Mini-chickenloops as printed",
-#| echo = FALSE,
-#| out.width = "70%",
-#| fig.align = "center"
-knitr::include_graphics("images/chickenloop_release.jpg")
-```
+![Mini-chickenloops as printed](images/chickenloop-release.jpg){#fig-chickenloop-release fig-alt="Mini-chickenloops as printed" fig-align="center"}
 
 ### Preparing the chickenloop release
 
@@ -238,14 +196,7 @@ Drill out the long bores of the chickenloop release with a 7/64" drill. Drill it
 
 Cut a 24mm segment of the 0.102" diameter stainless rod. Ease each end of this pin with a metal file. Hold the pin with pliers while you briefly heat one tip of the pin in a flame; two seconds in the heat of a propane torch is about enough. You want it hot enough to soften the ABS plastic of the chickenloop release, but no hotter. Slide the hot end of the pin into the completely-drilled hole and into the opposite hole until it stops. Press the pin fully in with a mallet or pliers.
 
-```{r}
-#| label = "chickenloop-release-with-pin",
-#| fig.cap = "Mini-chickenloop with the trimline retention pin installed",
-#| echo = FALSE,
-#| out.width = "70%",
-#| fig.align = "center"
-knitr::include_graphics("images/chickenloop_release_with_pin.jpg")
-```
+![Mini-chickenloop with the trimline retention pin installed](images/chickenloop-release-with-pin.jpg){#fig-chickenloop-release-with-pin fig-alt="Mini-chickenloop with the trimline retention pin installed" fig-align="center"}
 
 ### Making the quick-release pin
 
@@ -269,92 +220,31 @@ Seal the end of a 2mm bungie. Trim the sealed end to make it clean. Make a mark 
 
 ### Assembling the MCL
 
-Thread the untied end of the bungie from the top of the chickenloop release and out the bottom. Thread the bungie on lop end of the chickenloop line, then up the through the remaining vertical bore hole and out the top. Tie an overhand knot in the end of the bungie to secure the end at the top of the chickenloop release. Make sure there is a little slack in the bungie.
+Thread the untied end of the bungie from the top of the chickenloop release and out the bottom. Thread the bungie through a loop end of the chickenloop line, then up the through the remaining vertical bore hole and out the top. Tie an overhand knot in the end of the bungie to secure the end at the top of the chickenloop release. Make sure there is a little slack in the bungie. The finished product should look like the image in @fig-assembled-mini-chickenloop
 
-```{=html}
-<!-- TODO: Add this text 
+![Assembled mini-chickenloop](images/assembled-mini-chickenloop.jpg){#fig-assembled-mini-chickenloop fig-alt="Assembled mini-chickenloop" fig-align="center"}
 
-The finished product should look like the image below.
-
-and an image of this assembly
--->
-```
 # Assembly
 
 ## Bar assembly and threading line
 
-To thread the trim line, put the threaded end through the cleat, entering at the jam side. Exit the cleat at the top, routing up through the separation block. Reenter the cleat and go through its serpentine path. Leave just enough line above the cleat to provide the desired trim. A spring clamp applied to both sides of the trimline just above the cleat is a good way to maintain the correct amount of trim while threading the trimline. Route the trimline through the cleat bead. Go down through the center of the bar, through the chickenloop release, through the near loop of the chickenloop line, through the quick-release pin, then up through the chickenloop release, but on the other side of the retaining pin.
+To thread the trim line, put the threaded end through the cleat, entering at the jam side. Exit the cleat at the top, routing up through the separation block. Reenter the cleat and go through its serpentine path. Leave just enough line above the cleat to provide the desired trim. A spring clamp applied to both sides of the trimline just above the cleat is a good way to maintain the correct amount of trim while threading the trimline. Route the trimline through the cleat bead. Go down through the center of the bar, through the chickenloop release, through the near loop of the chickenloop line, through the quick-release pin, then up through the chickenloop release, but on the other side of the retaining pin as shown in @fig-bar-assembly-mcl
 
-````{=html}
-<!-- TOTO: Add this text
-
-See Figure  \@ref(fig:bar-assembly-mcl).
-
-And an new image
-
-```{r}
-#| label = "bar-assembly-mcl",
-#| fig.cap = "Threading the trim line through the Mini-chickenloop",
-#| echo = FALSE,
-#| out.width = "70%",
-#| fig.align = "center"
-knitr::include_graphics("images/bar_assembly_mcl.jpg")
-```
-
--->
-````
+![Threading the trim line through the Mini-chickenloop](images/bar-assembly-mcl.jpg){#fig-bar-assembly-mcl fig-alt="Threading the trim line through the Mini-chickenloop" fig-align="center"}
 
 Then go back through the center bore of the bar and through the cleat bead. Slide the cleat bead down towards the bar to leave lots of slack next to the cleat. Before going any further, pull trimline into the cleat from below the cleat. Pull enough to provide a 5 cm loop of trimline on each side of the cleat. You'll need this slack in the next step.
 
 Route the loose end of the trim line *up* through the cleat's serpentine path. You want to make large parallel loops of line going back and forth through the serpentine. Route about 5cm of the trim out of the top of the cleat.
 
-```{r}
-#| label = "thread-cleat-1",
-#| fig.cap = "Form large parallel loops of line on each side of the cleat's serpentine path. Route about 5cm of
-#| the trim out of the top of the cleat.",
-#| echo = FALSE,
-#| out.width = "70%",
-#| fig.align = "center"
-knitr::include_graphics("images/threading_the_cleat_1.jpg")
-```
+![Form large parallel loops of line on each side of the cleat's serpentine path. Route about 5cm of the trim out of the top of the cleat.](images/threading-the-cleat-1.jpg){#fig-threading-the-cleat-1 fig-alt="Form large parallel loops of line on each side of the cleat's serpentine path. Route about 5cm of the trim out of the top of the cleat." fig-align="center"}
 
-```{r}
-#| label = "thread-cleat-2",
-#| fig.cap = "Route the 5cm of trim line tail through the loops along the side of the serpentine.",
-#| echo = FALSE,
-#| out.width = "70%",
-#| fig.align = "center"
-knitr::include_graphics("images/threading_the_cleat_2.jpg")
-```
+![Route the 5cm of trim line tail through the loops along the side of the serpentine.](images/threading-the-cleat-2.jpg){#fig-threading-the-cleat-2 fig-alt="Route the 5cm of trim line tail through the loops along the side of the serpentine." fig-align="center"}
 
-```{r}
-#| label = "thread-cleat-3",
-#| fig.cap = "Route the insignia cloth tail through the loops. Holding the tail in place, pull the trim line
-#| slack down through the cleat grooming the lines as you go. Keep the lines as parallel as possible. Take the
-#| slack out of the trimline loops 1 of 3.",
-#| echo = FALSE,
-#| out.width = "70%",
-#| fig.align = "center"
-knitr::include_graphics("images/threading_the_cleat_3.jpg")
-```
+![Route the insignia cloth tail through the loops. Holding the tail in place, pull the trim line slack down through the cleat grooming the lines as you go. Keep the lines as parallel as possible. Take the slack out of the trimline loops 1 of 3.](images/threading-the-cleat-3.jpg){#fig-threading-the-cleat-3 fig-alt="Route the insignia cloth tail through the loops. Holding the tail in place, pull the trim line slack down through the cleat grooming the lines as you go. Keep the lines as parallel as possible. Take the slack out of the trimline loops 1 of 3." fig-align="center"}
 
-```{r}
-#| label = "thread-cleat-4",
-#| fig.cap = "Take the slack out of the trimline loops 2 of 3.",
-#| echo = FALSE,
-#| out.width = "70%",
-#| fig.align = "center"
-knitr::include_graphics("images/threading_the_cleat_4.jpg")
-```
+![Take the slack out of the trimline loops 2 of 3.](images/threading-the-cleat-4.jpg){#fig-threading-the-cleat-4 fig-alt="Take the slack out of the trimline loops 2 of 3." fig-align="center"}
 
-```{r}
-#| label = "thread-cleat-5",
-#| fig.cap = "Take the slack out of the trimline loops 3 of 3.",
-#| echo = FALSE,
-#| out.width = "70%",
-#| fig.align = "center"
-knitr::include_graphics("images/threading_the_cleat_5.jpg")
-```
+![Take the slack out of the trimline loops 3 of 3.](images/threading-the-cleat-5.jpg){#fig-threading-the-cleat-5 fig-alt="Take the slack out of the trimline loops 3 of 3." fig-align="center"}
 
 With the trimline tight in the serpentine path, have a friend help you put the trim line in tension. Then slide the cleat bead up to the cleat. Look at the cleat from the pilot's point of view and rotate the cleat until the jaws are up. Check the rotation of the cleat bead so that the flag line guide path is on the lower left side of the cleat. Pull the trim lines and jam the bead onto the bottom of the cleat.
 
@@ -364,25 +254,11 @@ You'll want to verify you can reach the trimline end under normal flying conditi
 
 With the trim line routed, the flying lines can be attached. Route the right-side flying line down through the separation block and attach the stub line stopper to the end-loop of the flying line with a larks head to retain the flying line in the stopper.
 
-Route the left-side flying line through the remaining hole in the separation block. Continue routing it through the cleat bead and then the bar. Attach the flag line to the flying line with a larks head. Pull flag line up through the bar and bead with the flying line. The routed lines should look like Figure \@ref(fig:flag-line-at-separation-block) at the separation block. The over-all assembly should look like \@ref(fig:upper-section-of-assembled-bar)
+Route the left-side flying line through the remaining hole in the separation block. Continue routing it through the cleat bead and then the bar. Attach the flag line to the flying line with a larks head. Pull flag line up through the bar and bead with the flying line. The routed lines should look like @fig-flag-line-at-separation-block at the separation block. The over-all assembly should look like @fig-upper-section-of-assembled-bar
 
-```{r}
-#| label = "flag-line-at-separation-block",
-#| fig.cap = "The flag line meets the flying line.",
-#| echo = FALSE,
-#| out.width = "70%",
-#| fig.align = "center"
-knitr::include_graphics("images/flag-line-at-separation-block.jpg")
-```
+![The flag line meets the flying line.](images/flag-line-at-separation-block.jpg){#fig-flag-line-at-separation-block fig-alt="The flag line meets the flying line." fig-align="center"}
 
-```{r}
-#| label = "upper-section-of-assembled-bar",
-#| fig.cap = "Assembled bar",
-#| echo = FALSE,
-#| out.width = "70%",
-#| fig.align = "center"
-knitr::include_graphics("images/upper_section_of_assembled_bar.jpg")
-```
+![Assembled bar](images/upper-section-of-assembled-bar.jpg){#fig-upper-section-of-assembled-bar fig-alt="Assembled bar" fig-align="center"}
 
 ## Bar End Loops
 
@@ -393,11 +269,3 @@ Pull each bar end loop through one of the holes at the ends of the bar. Route th
 Use a larks head to attach the loop of each steering line leader to the loop of its steering line. Then attach the knot of the leader to the loop of the bar-end loop with a larks head. Keeping the knot of the leader line next to the bar minimizes the risk of snagging the steering lines in the components of the bar.
 
 With all the flying lines attached, the trim control let all the way out and the bar pulled all the way back, the tips of all four flying lines should converge to the same point.
-
-```{r}
-#| include = FALSE
-# automatically create a bib database for R packages
-knitr::write_bib(c(
-  .packages(), 'bookdown', 'knitr', 'rmarkdown'
-), 'packages.bib')
-```
