@@ -2,6 +2,22 @@
 All notable changes to the BuggyBar Build Book will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## [2.0.0] - 2025-09-30
+### Added
+- Add a core to the upper trim line to improve lock in the cleat.
+- Add a set screw to the cleat bead to lock it the the trimline and cleat.
+
+### Changed
+- Replace mini-chickenloop with KQR
+- Replace doubled trim line with a single spliced loop for the KQR.
+- Replace flag line lower end with a small ring to conform with standard bar practice.
+- Replace 1/16" Ultrex references with a generic Dyneema line reference.
+- Update links for 3-D printer parts that have also been revised in kite_bar_parts release 1.6.0
+- Migrate from Bookdown to Quarto Book (philipbchase@gmail.com)
+
+### Removed
+- Stop producing PDF and ePUB output (philipbchase@gmail.com)
+
 
 ## [1.1.0] - 2020-11-08
 ### Added
