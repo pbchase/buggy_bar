@@ -1,14 +1,14 @@
 # BuggyBar Build Book
 
-This document describes how to build a BuggyBar, a kite control bar designed by and for kite buggiers.
+This document describes how to build a BuggyBar, a kite control bar designed by and for kite buggiers. Philip Chase is the principle designer of the BuggyBar and principle author of this document. 
 
-To see the rendered document in a variety of formats, see http://philipbchase.com/buggy-bar-build-book/
+To see the rendered document in a variety of formats, see http://philipbchase.com/
 
 ## Contributions
 
 Contributions, corrections and questions are welcome. Please open an issue, submit an pull request or just email me directly.
 
-This book is written in using [Bookdown](https://bookdown.org/yihui/bookdown/). It might me a lot to bite off just to point out typos, so please feel free just open an issue and cut and paste the bad text into the issue.
+This book is written in using [Quarto](https://quarto.org/docs/books/). It might me a lot to bite off just to point out typos, so please feel free just open an issue and cut and paste the bad text into the issue.
 
 ## Contributors
 

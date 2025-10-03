@@ -5,7 +5,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 ## [2.0.0] - 2025-09-30
 ### Added
 - Add a core to the upper trim line to improve lock in the cleat.
-- Add a set screw to the cleat bead to lock it the the trimline and cleat.
+- Add a set screw to the cleat bead to lock it to the trimline and cleat.
 
 ### Changed
 - Replace mini-chickenloop with KQR
