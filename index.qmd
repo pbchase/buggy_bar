@@ -1,7 +1,7 @@
 ---
 title: "Buggy Bar Book"
 author: "Philip Chase"
-date: "2025-10-02"
+date: "2026-06-07"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [packages.bib]
@@ -31,8 +31,8 @@ This release replaces the mini-chickenloop with [KQR](https://orangekiter.jimdof
 -   4910mm hollow core braided 1.6mm Dyneema with a *very* loose braid (I use <https://www.amazon.com/dp/B06XTL3K7Z?th=1> from emma kites)
 -   1 Small Stopper Ball Green \~5/32" ID, 16-18mm OD
 -   1 Medium Stopper Ball Green \~1/4" ID, 25-32mm OD
--   1 [Separation block v3 8mm trimline bore Release 1.6.0](https://github.com/pbchase/kite_bar_parts/blob/master/printable/separation_block_v3_8mm_trimline_bore_e90f9fc.stl)
--   1 [Cleat Bead release 1.6.0](https://github.com/pbchase/kite_bar_parts/blob/1.6.0/printable/cleat_bead_cb0d3b8.stl)
+-   1 [Separation block v3 8mm trimline bore Release 1.7.1](https://github.com/pbchase/kite_bar_parts/blob/master/printable/separation_block_v3_8mm_trimline_bore_2026-05-05.stl)
+-   1 [Cleat Bead release 1.7.0](https://github.com/pbchase/kite_bar_parts/blob/master/printable/cleat_bead_2026-04-28.stl)
 -   \~260mm of 2mm bungee
 -   The bar-side rings and ring holder from a [KQR](https://orangekiter.jimdofree.com/kieler-quickrelease/). The KQR uses a 4mm x 25mm (ID) and a 3mm x 20mm (ID) stainless steel ring attached to the trim line with a larks head. A third ring, 3mm x 15mm (ID) is larksheaded to the end of the flag line. Optionally use an [IQR](https://www.infexion.eu/seatbelt-quick-release/) instead of the KQR.
 
@@ -150,7 +150,7 @@ The juncture of the flying lines and the trim line is managed by the *separation
 
 ![Separation block](images/separation_block_V3.png){#fig-separation-block fig-alt="Separation block" fig-align="center" width="650"}
 
-This component provides a curved path to serve as a pully for the trim line and a guide path for each of the main flying lines. The [3-D model](https://github.com/pbchase/kite_bar_parts/blob/master/printable/separation_block_v3_8mm_trimline_bore_e90f9fc.stl) for this component is accessible in the [Kite Bar Barts](https://github.com/pbchase/kite_bar_parts) repository. Should you print this model, use a 1/8" drill to clean out the flying-line bore holes before installation. Use a sharp blade to deburr the sharp edges of the pulley hole. These adjustments simplify assembly.
+This component provides a curved path to serve as a pully for the trim line and a guide path for each of the main flying lines. The [3-D model](https://github.com/pbchase/kite_bar_parts/blob/master/printable/separation_block_v3_8mm_trimline_bore_2026-05-05.stl) for this component is accessible in the [Kite Bar Barts](https://github.com/pbchase/kite_bar_parts) repository. Should you print this model, use a 1/8" drill to clean out the flying-line bore holes before installation. Use a sharp blade to deburr the sharp edges of the pulley hole and the flying line holes. These adjustments simplify assembly.
 
 ## Flag line
 
@@ -194,7 +194,11 @@ With the loops complete, stretch the pair of lines evenly and mark both lines at
 
 ## Bar assembly and threading line
 
-To thread the trim line, put the threaded end through the cleat, entering at the jam side. Exit the cleat at the top, routing up through the separation block. Reenter the cleat and go through its serpentine path. Leave just enough line above the cleat to provide the desired trim. A spring clamp applied to both sides of the trimline just above the cleat is a good way to maintain the correct amount of trim while threading the trimline. Route the trimline through the cleat bead. Go down through the center of the bar. Attach the KQR rings and ring holder with a larkshead around the rings, but not the holder. The ring holder holds the rings in the two grooves printed on its concave side.
+To thread the trim line, put the threaded end through the cleat, entering at the jam side. Exit the cleat at the top, routing up through the separation block. Reenter the cleat and go through its serpentine path. Leave just enough line above the cleat to provide the desired trim. A spring clamp applied to both sides of the trimline just above the cleat is a good way to maintain the correct amount of trim while threading the trimline. Route the trimline through the cleat bead. The cleat bead is shown in @fig-cleat-bead-view-1 and @fig-cleat-bead-view-2. Go down through the center of the bar. Attach the KQR rings and ring holder with a larkshead around the rings, but not the holder. The ring holder holds the rings in the two grooves printed on its concave side.
+
+![View of the flag line path on the Cleat Bead](images/cleat_bead_view_1.png){#fig-cleat-bead-view-1 fig-alt="View of the flag line path on the Cleat Bead" fig-align="center" width="350"}
+
+![View of the set screw bore hole on the Cleat Bead](images/cleat_bead_view_2.png){#fig-cleat-bead-view-2 fig-alt="View of the set screw bore hole on the Cleat Bead" fig-align="center" width="350"}
 
 You'll want to verify you can reach the trimline end under normal flying conditions. It's easier to assess the cleat position before the flying lines are attached so pause the assembly for a moment to check and adjust the cleat position. To do this, put your harness on, clip the chickenloop into the harness and have a friend pull on the trim line by the separation block. They should pull the bar to your side about 30 degrees above horizontal. Verify you can reach the jaws of the cleat and grab the trim line tail without over-reaching. If you have to stretch to reach the tail, the cleat is too far away. You can move it closer by moving some of the trim line up through the cleat. For each centimeter you need to move the cleat down, you'll need to move two centimeters of line through the cleat toward the kite. Making this adjustment is a bit tedious, but the trim line tail must be in easy reach under load.
 
