@@ -2,6 +2,15 @@
 All notable changes to the BuggyBar Build Book will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## [2.1.0] - 2026-06-07
+### Added
+- Add views of the Cleat Bead showing the flag line guide path and set screw bore hole.
+
+### Changed
+- Update links to the Separation Block (release 1.7.1) and Cleat Bead (release 1.7.0) printable parts.
+- Update the Separation Block and flag-line-at-separation-block images.
+- Fix typos, grammar, and terminology inconsistencies throughout the build instructions.
+
 ## [2.0.0] - 2025-09-30
 ### Added
 - Add a core to the upper trim line to improve lock in the cleat.
